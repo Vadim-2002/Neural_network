@@ -1,0 +1,1949 @@
+﻿ID;Not Agent;Bedroom;Property type;Area;Type of finish;Bathroom;Price
+1;True;2;Apartment;1450;Furnished;2;20000
+2;True;3;Apartment;1900;Unfurnished;3;22000
+3;False;3;Apartment;1450;Semi-Furnished;3;17500
+4;False;3;Apartment;1650;Semi-Furnished;3;30000
+5;False;2;Apartment;1080;Furnished;2;30000
+6;False;3;Apartment;1440;Semi-Furnished;3;25000
+7;False;2;Apartment;1305;Furnished;2;25000
+8;False;2;Apartment;1000;Semi-Furnished;2;14000
+9;False;2;Apartment;900;Furnished;2;20000
+10;False;3;Apartment;1985;Unfurnished;1;24000
+11;False;1;Apartment;1200;Semi-Furnished;2;19000
+12;False;2;Apartment;1064;Semi-Furnished;2;10000
+13;False;3;Apartment;1800;Semi-Furnished;3;22000
+14;False;2;Apartment;1232;Semi-Furnished;2;9000
+15;False;2;Apartment;1105;Unfurnished;2;15000
+16;False;2;Apartment;950;Furnished;2;14000
+17;False;3;Apartment;1926;Semi-Furnished;3;13500
+18;False;2;Apartment;1350;Semi-Furnished;2;14000
+19;False;3;Apartment;1080;Unfurnished;2;10500
+20;False;3;Apartment;2100;Semi-Furnished;3;34001
+21;False;3;Apartment;2010;Semi-Furnished;3;37000
+22;False;2;Apartment;1225;Unfurnished;3;12000
+23;False;1;Apartment;598;Semi-Furnished;1;12500
+24;False;3;Apartment;1836;Semi-Furnished;1;23000
+25;False;2;Apartment;1200;Furnished;2;25000
+26;False;3;Apartment;1125;Furnished;3;25000
+27;False;1;Apartment;640;Unfurnished;1;10000
+28;False;2;Apartment;1322;Unfurnished;2;18000
+29;False;2;Apartment;1080;Semi-Furnished;2;15000
+30;False;2;Apartment;1225;Semi-Furnished;2;15000
+31;False;2;Apartment;1325;Semi-Furnished;2;15000
+32;False;3;Apartment;1800;Semi-Furnished;3;23000
+33;False;3;Apartment;2100;Furnished;3;40000
+34;False;1;Apartment;1000;Semi-Furnished;2;12000
+35;False;2;Apartment;1300;Furnished;2;22000
+36;False;2;Apartment;1700;Furnished;2;17000
+37;False;3;Apartment;1800;Furnished;3;30000
+38;False;3;Apartment;1650;Semi-Furnished;3;20000
+39;False;2;Apartment;1250;Furnished;2;21000
+40;False;3;Apartment;2115;Semi-Furnished;3;40000
+41;False;1;Independent Floor;1100;Semi-Furnished;2;11500
+42;False;3;Apartment;1436;Semi-Furnished;3;17000
+43;False;2;Apartment;1775;Furnished;2;18000
+44;False;2;Apartment;1215;Semi-Furnished;2;16000
+45;False;1;Apartment;900;Unfurnished;1;11500
+46;False;3;Apartment;1650;Semi-Furnished;3;25000
+47;False;2;Apartment;1140;Semi-Furnished;2;15000
+48;False;3;Apartment;1810;Furnished;3;23000
+49;False;3;Apartment;1760;Furnished;3;32000
+50;False;3;Apartment;1760;Furnished;3;42000
+51;False;3;Apartment;1785;Semi-Furnished;3;22500
+52;False;3;Apartment;1750;Furnished;3;42000
+53;False;1;Apartment;646;Unfurnished;1;8000
+54;False;2;Apartment;1125;Semi-Furnished;2;18500
+55;False;2;Apartment;1000;Furnished;2;25000
+56;False;3;Apartment;2000;Semi-Furnished;3;30000
+57;False;3;Apartment;1850;Semi-Furnished;3;28000
+58;False;3;Apartment;1905;Unfurnished;3;30000
+59;False;3;Apartment;2115;Unfurnished;3;35000
+60;False;3;Apartment;1750;Semi-Furnished;3;35000
+61;False;3;Apartment;1500;Furnished;3;20000
+62;False;2;Apartment;672;Semi-Furnished;2;20000
+63;False;2;Apartment;945;Unfurnished;2;18000
+64;False;3;Apartment;1850;Unfurnished;3;13600
+65;True;2;Apartment;1150;Semi-Furnished;2;9500
+66;False;2;Apartment;1210;Unfurnished;2;10500
+67;False;2;Apartment;1080;Unfurnished;2;8000
+68;False;3;Independent Floor;1700;Furnished;3;20000
+69;False;2;Apartment;1133;Furnished;2;20000
+70;True;3;Apartment;1250;Semi-Furnished;2;23000
+71;False;3;Apartment;1710;Furnished;3;26000
+72;False;3;Apartment;2052;Unfurnished;3;14000
+73;False;2;Apartment;999;Semi-Furnished;2;12000
+74;True;1;Apartment;1100;Semi-Furnished;1;10000
+75;False;2;Apartment;1197;Semi-Furnished;2;13500
+76;False;2;Apartment;1233;Semi-Furnished;3;14000
+77;False;2;Apartment;1200;Semi-Furnished;2;15500
+78;False;1;Apartment;600;Semi-Furnished;1;11750
+79;False;2;Apartment;1200;Semi-Furnished;2;19850
+80;False;2;Apartment;1030;Semi-Furnished;2;22000
+81;False;3;Apartment;1500;Unfurnished;2;45000
+82;False;3;Apartment;1676;Semi-Furnished;3;29000
+83;False;2;Apartment;1468;Semi-Furnished;2;35000
+84;False;1;Apartment;600;Semi-Furnished;1;8899
+85;True;2;Independent Floor;1200;Semi-Furnished;1;16000
+86;True;2;Apartment;1250;Furnished;2;32000
+87;True;2;Apartment;1054;Furnished;2;18000
+88;False;1;Apartment;700;Semi-Furnished;1;16500
+89;False;2;Apartment;1330;Semi-Furnished;2;40000
+90;True;2;Apartment;650;Semi-Furnished;1;9500
+91;False;3;Apartment;1900;Semi-Furnished;2;40000
+92;False;1;Apartment;600;Furnished;1;20000
+93;True;2;Independent Floor;900;Semi-Furnished;2;23000
+94;True;2;Independent Floor;1000;Unfurnished;2;19000
+95;True;2;Independent Floor;700;Semi-Furnished;2;13500
+96;True;2;Independent Floor;1000;Semi-Furnished;2;11000
+97;True;2;Independent Floor;1350;Semi-Furnished;2;16000
+98;False;2;Independent Floor;1200;Semi-Furnished;2;27500
+99;False;2;Independent Floor;780;Semi-Furnished;2;16400
+100;True;2;Independent Floor;650;Furnished;2;20000
+101;False;1;Independent Floor;600;Semi-Furnished;1;13500
+102;True;1;Apartment;1000;Semi-Furnished;1;12000
+103;False;2;Independent Floor;1300;Semi-Furnished;2;23000
+104;True;2;Independent Floor;1050;Semi-Furnished;2;15500
+105;True;3;Apartment;1380;Semi-Furnished;2;22000
+106;False;3;Apartment;1776;Semi-Furnished;3;45000
+107;True;2;Apartment;1160;Semi-Furnished;2;20000
+108;True;1;Independent Floor;600;Furnished;1;9000
+109;False;2;Apartment;1000;Semi-Furnished;2;18000
+110;False;2;Apartment;1297;Furnished;2;35000
+111;False;2;Independent Floor;900;Semi-Furnished;2;20000
+112;True;2;Independent Floor;400;Unfurnished;1;8000
+113;True;2;Independent Floor;1500;Semi-Furnished;2;16000
+114;True;1;Apartment;635;Semi-Furnished;1;12000
+115;True;2;Apartment;1155;Furnished;2;18000
+116;True;2;Independent Floor;1200;Semi-Furnished;3;20000
+117;True;1;Independent Floor;500;Semi-Furnished;1;7000
+118;True;3;Apartment;1625;Semi-Furnished;3;20000
+119;False;3;Apartment;1200;Semi-Furnished;3;18000
+120;False;3;Apartment;1850;Semi-Furnished;3;42000
+121;False;1;Independent Floor;600;Semi-Furnished;1;15000
+122;True;1;Independent Floor;650;Semi-Furnished;1;8500
+123;True;3;Apartment;1650;Semi-Furnished;3;20000
+124;False;2;Apartment;1200;Semi-Furnished;2;18000
+125;False;2;Apartment;1359;Semi-Furnished;2;26000
+126;True;1;Independent Floor;650;Semi-Furnished;1;11000
+127;False;3;Apartment;1200;Furnished;2;18000
+128;False;1;Apartment;500;Semi-Furnished;1;13000
+129;True;2;Apartment;1200;Semi-Furnished;2;18000
+130;False;2;Apartment;800;Unfurnished;1;13500
+131;False;2;Independent Floor;1150;Unfurnished;2;15000
+132;True;2;Independent Floor;540;Unfurnished;2;13000
+133;True;3;Apartment;1398;Semi-Furnished;3;20000
+134;True;2;Apartment;1050;Semi-Furnished;2;16500
+135;True;2;Apartment;1300;Semi-Furnished;2;22000
+136;True;2;Apartment;665;Unfurnished;2;10000
+137;True;2;Apartment;1000;Semi-Furnished;2;13000
+138;True;1;Apartment;1000;Semi-Furnished;1;4500
+139;True;1;Independent Floor;500;Semi-Furnished;1;11000
+140;True;1;Independent Floor;500;Semi-Furnished;1;8000
+141;True;2;Apartment;1350;Semi-Furnished;2;23000
+142;True;2;Apartment;1500;Semi-Furnished;2;14000
+143;True;2;Apartment;1125;Semi-Furnished;2;21000
+144;True;2;Apartment;1117;Semi-Furnished;2;25000
+145;True;1;Apartment;960;Semi-Furnished;2;10000
+146;True;2;Apartment;1400;Semi-Furnished;2;30000
+147;True;1;Independent Floor;1500;Semi-Furnished;1;11500
+148;True;2;Apartment;1200;Semi-Furnished;2;9500
+149;True;3;Independent Floor;1450;Semi-Furnished;3;25000
+150;True;1;Apartment;740;Semi-Furnished;1;13000
+151;True;1;Apartment;700;Semi-Furnished;1;9500
+152;True;2;Apartment;1287;Semi-Furnished;2;30000
+153;True;2;Independent Floor;1100;Semi-Furnished;3;15000
+154;True;3;Apartment;1760;Semi-Furnished;3;32000
+155;True;3;Apartment;1451;Semi-Furnished;2;20000
+156;True;2;Independent Floor;1000;Semi-Furnished;2;18000
+157;True;2;Independent Floor;850;Semi-Furnished;2;17000
+158;True;3;Apartment;1325;Semi-Furnished;2;26000
+159;True;2;Apartment;957;Semi-Furnished;2;20000
+160;True;2;Independent Floor;1300;Semi-Furnished;2;16000
+161;True;2;Independent Floor;1350;Semi-Furnished;2;15500
+162;True;2;Apartment;1200;Semi-Furnished;2;20000
+163;True;2;Apartment;1200;Furnished;2;30000
+164;True;1;Independent Floor;900;Semi-Furnished;1;9000
+165;True;3;Apartment;1950;Semi-Furnished;3;30000
+166;True;2;Apartment;1062;Semi-Furnished;2;15500
+167;True;2;Independent Floor;740;Semi-Furnished;2;9300
+168;True;1;Independent Floor;400;Semi-Furnished;1;8000
+169;True;2;Apartment;1350;Semi-Furnished;2;16000
+170;True;3;Apartment;2032;Furnished;3;50000
+171;True;3;Independent Floor;1300;Furnished;2;30000
+172;True;2;Apartment;1100;Semi-Furnished;2;20000
+173;True;2;Apartment;954;Semi-Furnished;2;15000
+174;True;2;Apartment;1105;Furnished;2;25000
+175;True;2;Apartment;1227;Semi-Furnished;2;16500
+176;True;3;Apartment;1406;Furnished;3;23000
+177;True;2;Apartment;1000;Semi-Furnished;2;12000
+178;True;2;Independent Floor;1400;Unfurnished;2;18000
+179;True;2;Independent Floor;800;Semi-Furnished;2;13000
+180;True;2;Apartment;1475;Semi-Furnished;2;17000
+181;True;1;Independent Floor;1000;Semi-Furnished;1;12000
+182;True;2;Apartment;1053;Semi-Furnished;2;18500
+183;True;2;Apartment;1800;Semi-Furnished;1;9000
+184;True;2;Apartment;1215;Furnished;2;24500
+185;True;3;Apartment;1650;Semi-Furnished;3;30000
+186;True;1;Independent Floor;700;Semi-Furnished;1;10000
+187;True;2;Apartment;1100;Semi-Furnished;2;22000
+188;False;1;Independent Floor;650;Unfurnished;1;12000
+189;False;2;Apartment;850;Semi-Furnished;2;20000
+190;False;2;Apartment;1000;Semi-Furnished;2;37000
+191;False;3;Apartment;1800;Semi-Furnished;2;25000
+192;False;3;Independent Floor;1800;Semi-Furnished;3;47000
+193;False;1;Independent Floor;450;Unfurnished;1;9000
+194;False;3;Apartment;1850;Semi-Furnished;3;34000
+195;False;3;Independent Floor;750;Semi-Furnished;2;25000
+196;False;2;Apartment;1700;Furnished;2;36000
+197;False;3;Independent Floor;1600;Unfurnished;3;60000
+198;False;2;Apartment;1200;Semi-Furnished;2;25000
+199;False;3;Apartment;1150;Unfurnished;2;20000
+200;False;3;Apartment;1750;Semi-Furnished;2;27000
+201;False;3;Independent Floor;1422;Semi-Furnished;3;32000
+202;False;3;Apartment;2100;Semi-Furnished;3;30000
+203;False;2;Apartment;900;Semi-Furnished;2;26000
+204;False;1;Apartment;600;Furnished;1;17000
+205;False;3;Apartment;1550;Semi-Furnished;2;25000
+206;False;3;Independent Floor;639;Semi-Furnished;2;18000
+207;False;2;Apartment;1200;Semi-Furnished;2;24000
+208;False;3;Independent Floor;1800;Semi-Furnished;2;52000
+209;False;2;Independent Floor;1125;Semi-Furnished;2;22000
+210;False;3;Independent Floor;1800;Semi-Furnished;3;40000
+211;False;3;Independent Floor;1350;Semi-Furnished;3;42000
+212;False;2;Independent Floor;1000;Unfurnished;2;25000
+213;False;3;Independent Floor;1600;Unfurnished;3;31000
+214;False;2;Independent Floor;900;Unfurnished;2;23000
+215;False;2;Independent Floor;1100;Unfurnished;2;25000
+216;False;3;Independent Floor;1800;Semi-Furnished;3;55000
+217;False;3;Apartment;1900;Semi-Furnished;3;38000
+218;False;1;Apartment;550;Semi-Furnished;1;13000
+219;False;2;Independent Floor;650;Semi-Furnished;2;15000
+220;False;4;Apartment;1900;Semi-Furnished;4;30000
+221;False;3;Independent Floor;1000;Semi-Furnished;2;20000
+222;False;3;Apartment;1980;Furnished;2;37000
+223;False;2;Independent Floor;1000;Furnished;2;28000
+224;False;3;Apartment;1600;Semi-Furnished;2;31000
+225;False;2;Independent Floor;1450;Furnished;2;32000
+226;False;3;Apartment;1850;Semi-Furnished;3;35000
+227;False;4;Apartment;1950;Semi-Furnished;3;35000
+228;False;3;Independent Floor;1450;Semi-Furnished;3;45000
+229;False;3;Independent Floor;1150;Furnished;3;31000
+230;False;3;Independent Floor;1670;Semi-Furnished;3;28000
+231;False;1;Independent Floor;500;Furnished;1;15000
+232;False;2;Apartment;1100;Semi-Furnished;2;19000
+233;False;3;Apartment;1600;Semi-Furnished;3;26000
+234;False;1;Independent Floor;900;Unfurnished;1;18000
+235;False;3;Independent Floor;1872;Semi-Furnished;4;55000
+236;False;3;Independent Floor;1750;Semi-Furnished;3;36000
+237;False;3;Independent Floor;1800;Furnished;3;40000
+238;False;3;Apartment;1600;Semi-Furnished;2;22000
+239;False;3;Apartment;1600;Furnished;3;34500
+240;False;2;Apartment;1500;Semi-Furnished;2;24000
+241;False;3;Apartment;1800;Furnished;2;35000
+242;False;1;Independent Floor;460;Semi-Furnished;1;11500
+243;False;3;Independent Floor;1000;Semi-Furnished;3;17000
+244;False;1;Independent Floor;500;Semi-Furnished;1;8500
+245;False;3;Apartment;1700;Semi-Furnished;2;28000
+246;False;2;Apartment;1000;Semi-Furnished;2;20000
+247;False;3;Independent Floor;1800;Semi-Furnished;3;45000
+248;False;2;Independent Floor;1450;Unfurnished;2;35000
+249;False;2;Independent Floor;650;Semi-Furnished;1;10000
+250;False;3;Apartment;1300;Semi-Furnished;3;32000
+251;False;1;Independent Floor;500;Furnished;1;13500
+252;False;2;Apartment;1300;Furnished;2;30000
+253;False;1;Independent Floor;450;Unfurnished;1;12600
+254;False;2;Independent Floor;900;Unfurnished;2;30000
+255;False;3;Apartment;1600;Semi-Furnished;3;32000
+256;False;3;Independent Floor;1900;Semi-Furnished;3;25000
+257;False;3;Apartment;2000;Semi-Furnished;3;35000
+258;False;1;Apartment;800;Furnished;1;40000
+259;False;2;Independent Floor;1125;Semi-Furnished;2;37000
+260;False;3;Apartment;1550;Semi-Furnished;2;42000
+261;False;3;Independent Floor;1800;Unfurnished;3;35000
+262;False;3;Apartment;1600;Semi-Furnished;2;27000
+263;False;3;Apartment;1700;Furnished;2;35000
+264;False;2;Apartment;1200;Semi-Furnished;2;22000
+265;False;2;Independent Floor;950;Unfurnished;1;19000
+266;False;3;Independent Floor;1800;Semi-Furnished;2;38000
+267;False;2;Independent Floor;900;Furnished;2;35000
+268;False;3;Independent Floor;1125;Semi-Furnished;2;28000
+269;False;2;Independent Floor;900;Furnished;2;28000
+270;False;2;Independent Floor;974;Furnished;2;30000
+271;False;1;Independent Floor;450;Furnished;1;10000
+272;False;3;Apartment;1600;Furnished;3;32000
+273;False;3;Apartment;1650;Semi-Furnished;3;31000
+274;False;2;Independent Floor;900;Semi-Furnished;2;20000
+275;False;3;Apartment;2000;Semi-Furnished;2;30000
+276;False;2;Independent Floor;650;Furnished;1;12500
+277;False;1;Independent Floor;650;Furnished;1;15000
+278;False;2;Apartment;830;Semi-Furnished;2;14500
+279;False;3;Independent Floor;1300;Semi-Furnished;3;30000
+280;False;4;Independent Floor;2000;Semi-Furnished;4;50000
+281;False;2;Independent Floor;910;Furnished;2;19000
+282;False;1;Independent Floor;800;Furnished;1;17000
+283;False;1;Independent Floor;550;Furnished;1;17000
+284;False;3;Independent Floor;1124;Semi-Furnished;3;35000
+285;False;2;Independent Floor;650;Semi-Furnished;2;16000
+286;False;1;Apartment;450;Semi-Furnished;1;8500
+287;False;1;Independent Floor;500;Furnished;1;18000
+288;False;2;Apartment;1050;Semi-Furnished;2;20500
+289;False;3;Independent Floor;1700;Furnished;3;60000
+290;False;2;Independent Floor;630;Unfurnished;1;10600
+291;False;2;Independent Floor;620;Unfurnished;1;10200
+292;False;1;Independent Floor;450;Semi-Furnished;1;8300
+293;False;1;Apartment;450;Semi-Furnished;1;7300
+294;False;2;Independent Floor;750;Semi-Furnished;1;12000
+295;False;3;Apartment;1400;Semi-Furnished;1;23000
+296;False;3;Independent Floor;1800;Semi-Furnished;3;40000
+297;False;3;Apartment;1800;Semi-Furnished;2;40000
+298;False;3;Independent Floor;1350;Semi-Furnished;3;45000
+299;False;2;Apartment;1000;Semi-Furnished;2;19000
+300;False;3;Apartment;1700;Semi-Furnished;2;28000
+301;False;3;Apartment;1600;Semi-Furnished;2;22000
+302;False;3;Apartment;1600;Semi-Furnished;3;24000
+303;False;2;Apartment;1200;Semi-Furnished;2;21000
+304;False;3;Independent Floor;1300;Semi-Furnished;3;38000
+305;False;2;Independent Floor;850;Semi-Furnished;2;20000
+306;False;2;Independent Floor;900;Furnished;1;14000
+307;False;2;Independent Floor;500;Semi-Furnished;1;6000
+308;False;2;Independent Floor;1800;Semi-Furnished;2;26500
+309;False;1;Independent Floor;900;Furnished;1;20000
+310;False;1;Independent Floor;500;Furnished;1;20000
+311;False;3;Apartment;1650;Semi-Furnished;2;27000
+312;False;2;Apartment;1150;Semi-Furnished;2;25000
+313;False;2;Independent Floor;650;Furnished;2;13000
+314;False;2;Apartment;750;Unfurnished;2;16500
+315;False;3;Independent Floor;1200;Unfurnished;2;20000
+316;False;2;Independent Floor;850;Semi-Furnished;2;12000
+317;False;2;Apartment;950;Semi-Furnished;2;23000
+318;False;2;Apartment;1100;Semi-Furnished;2;35000
+319;False;2;Apartment;1300;Unfurnished;2;30000
+320;False;2;Apartment;860;Semi-Furnished;1;12000
+321;False;3;Apartment;2000;Furnished;3;55000
+322;False;2;Independent Floor;1000;Semi-Furnished;1;25000
+323;False;1;Independent Floor;500;Semi-Furnished;1;15000
+324;False;2;Independent Floor;900;Semi-Furnished;2;13000
+325;False;1;Apartment;600;Furnished;1;13000
+326;False;2;Independent Floor;650;Semi-Furnished;2;10000
+327;False;2;Independent Floor;1100;Furnished;2;30000
+328;False;2;Independent Floor;850;Unfurnished;2;13500
+329;False;3;Independent Floor;1500;Semi-Furnished;3;25000
+330;False;2;Independent Floor;450;Semi-Furnished;1;8000
+331;False;1;Independent Floor;450;Semi-Furnished;1;8000
+332;False;2;Apartment;1200;Unfurnished;2;20500
+333;False;3;Independent Floor;900;Semi-Furnished;2;15000
+334;False;2;Independent Floor;500;Semi-Furnished;1;10000
+335;False;2;Independent Floor;550;Semi-Furnished;1;8800
+336;False;2;Independent Floor;900;Semi-Furnished;2;20000
+337;False;1;Independent Floor;500;Furnished;1;20000
+338;False;2;Apartment;1150;Semi-Furnished;2;18000
+339;False;1;Independent Floor;450;Semi-Furnished;1;9000
+340;False;2;Independent Floor;1000;Semi-Furnished;2;16000
+341;False;1;Independent Floor;450;Unfurnished;1;9500
+342;False;2;Independent Floor;880;Unfurnished;2;15500
+343;False;1;Apartment;600;Semi-Furnished;1;14000
+344;False;1;Apartment;540;Semi-Furnished;1;8000
+345;False;2;Independent Floor;1800;Semi-Furnished;2;28000
+346;False;1;Apartment;450;Semi-Furnished;1;12000
+347;False;1;Independent Floor;450;Semi-Furnished;1;7500
+348;False;2;Independent Floor;620;Semi-Furnished;2;12000
+349;False;3;Independent Floor;1500;Furnished;3;40000
+350;False;2;Independent Floor;850;Semi-Furnished;1;9000
+351;False;3;Independent Floor;1000;Semi-Furnished;2;13000
+352;False;3;Independent Floor;900;Semi-Furnished;2;10000
+353;False;3;Independent Floor;900;Semi-Furnished;2;14000
+354;False;3;Independent Floor;1800;Semi-Furnished;3;48000
+355;False;2;Apartment;1050;Furnished;2;30000
+356;False;2;Independent Floor;1300;Semi-Furnished;2;32000
+357;False;2;Independent Floor;1440;Semi-Furnished;2;28000
+358;False;2;Independent Floor;1350;Semi-Furnished;2;35000
+359;False;2;Apartment;1000;Semi-Furnished;2;25000
+360;False;1;Independent Floor;560;Unfurnished;1;8500
+361;False;2;Independent Floor;900;Semi-Furnished;2;19000
+362;False;2;Independent Floor;1000;Semi-Furnished;3;14000
+363;False;2;Independent Floor;1000;Semi-Furnished;2;12000
+364;False;3;Independent Floor;1650;Furnished;3;40000
+365;False;3;Independent Floor;1800;Semi-Furnished;3;25000
+366;False;3;Apartment;1800;Semi-Furnished;3;21000
+367;False;3;Independent Floor;1030;Semi-Furnished;2;24300
+368;False;3;Apartment;1580;Semi-Furnished;3;25000
+369;False;2;Independent Floor;590;Semi-Furnished;2;12000
+370;False;2;Independent Floor;1000;Semi-Furnished;2;25000
+371;False;1;Independent Floor;550;Furnished;1;15000
+372;False;1;Independent Floor;450;Furnished;1;13000
+373;False;2;Independent Floor;900;Semi-Furnished;2;14550
+374;False;1;Apartment;450;Semi-Furnished;1;7650
+375;False;1;Apartment;500;Semi-Furnished;1;7000
+376;False;3;Independent Floor;2000;Semi-Furnished;3;50000
+377;False;3;Independent Floor;980;Semi-Furnished;2;18000
+378;False;1;Independent Floor;600;Furnished;1;7000
+379;False;2;Apartment;1322;Furnished;2;35000
+380;False;2;Apartment;900;Furnished;2;16500
+381;False;1;Independent Floor;850;Semi-Furnished;2;17000
+382;False;2;Independent Floor;830;Unfurnished;2;12500
+383;False;3;Independent Floor;950;Furnished;1;19000
+384;False;2;Independent Floor;800;Furnished;2;22000
+385;False;2;Independent Floor;1800;Semi-Furnished;4;38000
+386;False;3;Independent Floor;1200;Furnished;3;20000
+387;False;1;Independent Floor;1000;Semi-Furnished;2;22000
+388;False;3;Apartment;1800;Furnished;3;28000
+389;False;1;Independent Floor;400;Unfurnished;1;8000
+390;False;2;Independent Floor;900;Semi-Furnished;2;10000
+391;False;1;Independent Floor;500;Unfurnished;1;9000
+392;False;2;Independent Floor;650;Unfurnished;2;15000
+393;False;3;Independent Floor;1280;Unfurnished;2;18500
+394;False;1;Independent Floor;550;Furnished;1;16650
+395;False;3;Independent Floor;1350;Semi-Furnished;3;28500
+396;False;1;Independent Floor;400;Unfurnished;1;7500
+397;False;3;Apartment;1600;Semi-Furnished;3;19500
+398;False;3;Independent Floor;1350;Furnished;3;27000
+399;False;1;Independent Floor;350;Furnished;1;11500
+400;False;2;Independent Floor;1400;Semi-Furnished;2;33000
+401;False;1;Independent Floor;650;Semi-Furnished;1;7500
+402;False;2;Independent Floor;500;Unfurnished;2;10000
+403;False;1;Independent Floor;1000;Furnished;1;30000
+404;False;2;Apartment;850;Semi-Furnished;1;24500
+405;False;3;Independent Floor;1500;Semi-Furnished;3;19000
+406;False;2;Independent Floor;1000;Semi-Furnished;2;13500
+407;False;1;Apartment;600;Semi-Furnished;1;12000
+408;False;1;Apartment;450;Unfurnished;1;16000
+409;False;2;Apartment;1000;Semi-Furnished;2;26000
+410;False;1;Independent Floor;560;Unfurnished;1;11000
+411;False;2;Apartment;900;Semi-Furnished;1;22000
+412;False;1;Independent Floor;590;Semi-Furnished;1;11900
+413;False;3;Apartment;1250;Semi-Furnished;2;37000
+414;False;1;Apartment;500;Unfurnished;1;16000
+415;False;2;Apartment;790;Semi-Furnished;2;15000
+416;False;1;Apartment;750;Furnished;1;35000
+417;False;2;Apartment;1000;Semi-Furnished;2;35000
+418;False;2;Independent Floor;1200;Semi-Furnished;2;36000
+419;False;3;Apartment;1550;Unfurnished;3;24000
+420;True;3;Independent Floor;1000;Semi-Furnished;3;22000
+421;False;2;Apartment;950;Semi-Furnished;2;30000
+422;False;2;Apartment;2000;Semi-Furnished;2;49000
+423;True;2;Independent Floor;550;Unfurnished;2;16000
+424;False;3;Apartment;1850;Semi-Furnished;3;20000
+425;False;3;Independent Floor;2100;Furnished;3;25000
+426;False;2;Apartment;1000;Semi-Furnished;2;21400
+427;True;3;Apartment;1238;Furnished;2;33000
+428;True;2;Apartment;2000;Semi-Furnished;1;9000
+429;True;3;Apartment;1500;Unfurnished;3;25000
+430;True;1;Independent Floor;500;Semi-Furnished;1;5000
+431;False;2;Independent Floor;900;Unfurnished;1;18000
+432;False;3;Apartment;1250;Semi-Furnished;2;28000
+433;True;3;Independent Floor;1000;Semi-Furnished;2;20000
+434;False;1;Independent Floor;300;Furnished;1;16000
+435;False;3;Independent Floor;1000;Furnished;2;35000
+436;False;2;Independent Floor;1000;Furnished;2;20000
+437;False;3;Independent Floor;1300;Semi-Furnished;2;35000
+438;False;1;Independent Floor;450;Furnished;1;10000
+439;True;2;Independent Floor;700;Semi-Furnished;1;8000
+440;True;2;Independent Floor;650;Semi-Furnished;2;14000
+441;True;2;Apartment;1500;Unfurnished;2;40000
+442;False;2;Independent Floor;1250;Furnished;2;30000
+443;True;2;Apartment;500;Unfurnished;1;10000
+444;False;3;Apartment;1600;Unfurnished;3;32000
+445;False;1;Apartment;300;Unfurnished;1;20000
+446;True;1;Apartment;1000;Unfurnished;1;14000
+447;False;2;Independent Floor;900;Semi-Furnished;2;22000
+448;False;2;Apartment;950;Semi-Furnished;2;19000
+449;False;2;Apartment;1150;Semi-Furnished;2;26000
+450;False;3;Apartment;1400;Semi-Furnished;2;22000
+451;False;3;Apartment;1750;Semi-Furnished;3;33000
+452;False;3;Apartment;1500;Semi-Furnished;2;28000
+453;False;2;Apartment;650;Furnished;1;15000
+454;False;2;Apartment;1500;Furnished;2;40000
+455;False;2;Independent Floor;650;Semi-Furnished;2;20000
+456;False;1;Independent Floor;450;Furnished;1;22000
+457;False;2;Independent Floor;700;Furnished;2;24000
+458;False;3;Apartment;950;Semi-Furnished;3;18000
+459;True;3;Independent Floor;840;Furnished;2;35000
+460;False;3;Independent Floor;1350;Semi-Furnished;2;40000
+461;False;2;Independent Floor;1800;Furnished;2;55000
+462;False;3;Independent Floor;1800;Unfurnished;2;38000
+463;False;1;Apartment;450;Unfurnished;2;8000
+464;False;1;Independent Floor;1400;Semi-Furnished;1;30000
+465;True;1;Apartment;579;Semi-Furnished;1;8000
+466;False;2;Independent Floor;675;Furnished;1;13500
+467;False;1;Independent Floor;500;Furnished;1;8000
+468;False;2;Independent Floor;900;Semi-Furnished;2;16000
+469;True;2;Apartment;900;Unfurnished;2;11000
+470;False;1;Independent Floor;700;Furnished;1;19000
+471;False;1;Independent Floor;800;Furnished;1;27000
+472;False;2;Independent Floor;800;Semi-Furnished;2;19500
+473;False;1;Apartment;650;Unfurnished;1;12000
+474;False;2;Independent Floor;550;Semi-Furnished;2;10500
+475;False;3;Apartment;1652;Semi-Furnished;3;30000
+476;False;2;Independent Floor;498;Furnished;1;9200
+477;False;2;Independent Floor;500;Semi-Furnished;1;6000
+478;False;3;Apartment;1500;Semi-Furnished;3;46000
+479;True;1;Apartment;356;Furnished;1;6500
+480;True;2;Apartment;750;Semi-Furnished;2;13500
+481;True;2;Independent Floor;675;Semi-Furnished;2;14000
+482;True;3;Independent Floor;1800;Unfurnished;2;45000
+483;True;2;Independent Floor;900;Semi-Furnished;2;18000
+484;True;4;Independent Floor;1783;Furnished;2;20000
+485;True;3;Independent Floor;910;Semi-Furnished;2;13500
+486;True;2;Apartment;1000;Unfurnished;1;17000
+487;True;1;Apartment;550;Unfurnished;1;7500
+488;True;2;Independent Floor;750;Semi-Furnished;2;12000
+489;True;2;Apartment;1000;Semi-Furnished;2;23000
+490;True;1;Independent Floor;600;Furnished;1;12000
+491;True;2;Apartment;1250;Semi-Furnished;2;28000
+492;True;2;Independent Floor;1000;Unfurnished;1;13000
+493;True;1;Apartment;450;Unfurnished;1;7000
+494;True;2;Independent Floor;648;Semi-Furnished;2;9750
+495;True;2;Independent Floor;756;Semi-Furnished;2;21000
+496;True;2;Independent Floor;1112;Semi-Furnished;2;15000
+497;True;2;Independent Floor;400;Unfurnished;2;12500
+498;True;4;Apartment;1900;Semi-Furnished;3;30000
+499;True;2;Apartment;1083;Semi-Furnished;2;26000
+500;True;3;Apartment;1600;Semi-Furnished;3;23000
+501;True;1;Independent Floor;900;Unfurnished;1;6300
+502;True;3;Apartment;1500;Semi-Furnished;3;20000
+503;True;2;Apartment;1248;Semi-Furnished;2;17000
+504;True;2;Apartment;1318;Semi-Furnished;2;30000
+505;False;2;Apartment;1720;Furnished;2;22000
+506;False;3;Apartment;1200;Semi-Furnished;3;26000
+507;False;2;Apartment;880;Semi-Furnished;2;10000
+508;False;2;Apartment;784;Semi-Furnished;2;27000
+509;False;1;Apartment;600;Semi-Furnished;1;11000
+510;False;1;Apartment;560;Unfurnished;1;9000
+511;False;2;Apartment;880;Furnished;2;21000
+512;False;2;Apartment;560;Semi-Furnished;2;14000
+513;False;3;Apartment;2000;Semi-Furnished;3;24001
+514;False;1;Apartment;800;Unfurnished;1;5991
+515;False;3;Apartment;2000;Semi-Furnished;3;24510
+516;False;1;Apartment;800;Unfurnished;1;8100
+517;False;1;Apartment;1000;Unfurnished;1;9300
+518;False;3;Apartment;1800;Semi-Furnished;3;19999
+519;False;1;Apartment;1000;Unfurnished;1;19000
+520;False;1;Independent Floor;1000;Unfurnished;1;8500
+521;False;3;Apartment;2000;Furnished;3;25000
+522;False;4;Apartment;1600;Furnished;4;35600
+523;False;1;Apartment;550;Semi-Furnished;1;11000
+524;False;2;Apartment;950;Semi-Furnished;2;11000
+525;False;2;Apartment;1314;Semi-Furnished;2;30000
+526;False;1;Apartment;546;Unfurnished;1;8000
+527;False;4;Apartment;1500;Unfurnished;2;25000
+528;False;2;Apartment;1200;Furnished;2;20000
+529;False;1;Independent Floor;500;Semi-Furnished;1;5500
+530;True;3;Apartment;1648;Semi-Furnished;3;24000
+531;True;2;Apartment;1053;Semi-Furnished;2;26000
+532;False;2;Apartment;1206;Semi-Furnished;2;18000
+533;False;2;Apartment;1200;Semi-Furnished;2;15000
+534;True;2;Apartment;1100;Semi-Furnished;2;16000
+535;False;2;Independent Floor;1050;Semi-Furnished;2;14000
+536;False;2;Apartment;990;Unfurnished;2;11500
+537;False;1;Apartment;596;Unfurnished;1;7500
+538;False;1;Apartment;510;Unfurnished;1;8000
+539;False;2;Apartment;1050;Semi-Furnished;2;16000
+540;False;2;Apartment;1100;Semi-Furnished;2;18000
+541;False;1;Apartment;800;Semi-Furnished;1;8500
+542;False;1;Independent Floor;650;Unfurnished;1;6500
+543;False;2;Apartment;1295;Semi-Furnished;2;30000
+544;False;2;Apartment;1000;Unfurnished;2;12000
+545;False;1;Apartment;750;Semi-Furnished;1;13000
+546;False;3;Independent Floor;1500;Unfurnished;3;22000
+547;False;1;Apartment;550;Unfurnished;1;5500
+548;False;1;Apartment;600;Unfurnished;1;8000
+549;False;2;Apartment;1250;Semi-Furnished;2;17000
+550;False;2;Apartment;1070;Unfurnished;2;15000
+551;False;2;Apartment;1000;Semi-Furnished;2;15000
+552;False;1;Independent Floor;1050;Unfurnished;1;10000
+553;False;2;Apartment;1100;Semi-Furnished;2;16000
+554;False;2;Apartment;1000;Unfurnished;2;13000
+555;False;1;Apartment;650;Unfurnished;1;18000
+556;False;1;Apartment;700;Furnished;1;16000
+557;False;2;Apartment;1250;Semi-Furnished;2;18000
+558;False;2;Apartment;1300;Semi-Furnished;2;10000
+559;False;1;Apartment;750;Semi-Furnished;1;12000
+560;False;3;Apartment;1850;Semi-Furnished;3;30000
+561;False;1;Apartment;503;Semi-Furnished;1;16000
+562;False;2;Apartment;1135;Semi-Furnished;2;25000
+563;False;2;Apartment;1000;Furnished;2;32000
+564;False;1;Apartment;502;Semi-Furnished;1;14000
+565;False;3;Apartment;1740;Semi-Furnished;3;25000
+566;False;3;Apartment;1450;Semi-Furnished;2;20000
+567;False;2;Apartment;1250;Unfurnished;2;16000
+568;False;1;Apartment;550;Furnished;1;7000
+569;True;1;Independent Floor;1500;Semi-Furnished;1;7000
+570;False;2;Independent Floor;1150;Unfurnished;2;13000
+571;True;1;Apartment;200;Unfurnished;1;10000
+572;False;1;Apartment;1000;Unfurnished;2;17000
+573;True;2;Apartment;1100;Semi-Furnished;2;16000
+574;True;2;Apartment;850;Semi-Furnished;2;9000
+575;True;2;Apartment;1449;Semi-Furnished;2;18000
+576;True;2;Apartment;1050;Semi-Furnished;2;16000
+577;False;1;Apartment;480;Furnished;1;14000
+578;False;1;Independent Floor;502;Semi-Furnished;1;9000
+579;False;1;Apartment;750;Semi-Furnished;1;8500
+580;True;2;Apartment;1255;Unfurnished;2;11000
+581;True;2;Apartment;2000;Semi-Furnished;2;12000
+582;False;1;Apartment;200;Unfurnished;1;4500
+583;True;2;Independent Floor;1000;Unfurnished;2;9000
+584;True;2;Apartment;1110;Furnished;2;23000
+585;True;1;Independent Floor;450;Unfurnished;1;5500
+586;True;2;Apartment;1250;Semi-Furnished;2;16000
+587;True;3;Apartment;1285;Semi-Furnished;2;22000
+588;True;2;Independent Floor;1600;Semi-Furnished;2;19000
+589;True;1;Independent Floor;150;Unfurnished;1;5600
+590;True;3;Apartment;1260;Semi-Furnished;2;13000
+591;False;2;Apartment;1250;Furnished;1;24000
+592;True;3;Apartment;1685;Semi-Furnished;3;40000
+593;False;1;Apartment;900;Semi-Furnished;1;14500
+594;True;3;Apartment;2000;Semi-Furnished;3;44000
+595;True;3;Apartment;1250;Semi-Furnished;3;11500
+596;False;3;Apartment;1480;Semi-Furnished;3;22000
+597;True;1;Independent Floor;600;Unfurnished;1;4500
+598;True;3;Apartment;1320;Semi-Furnished;3;26000
+599;False;2;Apartment;1200;Semi-Furnished;2;25000
+600;True;2;Apartment;1000;Furnished;2;15000
+601;False;1;Apartment;450;Unfurnished;1;7000
+602;False;2;Apartment;1072;Unfurnished;2;14500
+603;False;2;Apartment;900;Semi-Furnished;2;15000
+604;False;1;Apartment;900;Unfurnished;2;12000
+605;False;1;Apartment;650;Unfurnished;1;12000
+606;False;2;Apartment;1450;Unfurnished;2;20000
+607;False;2;Apartment;1000;Furnished;2;22000
+608;False;3;Apartment;1450;Furnished;2;35000
+609;False;2;Apartment;850;Unfurnished;2;12500
+610;False;2;Apartment;700;Unfurnished;2;10000
+611;False;2;Independent Floor;850;Semi-Furnished;1;15000
+612;False;3;Apartment;1272;Furnished;2;24000
+613;False;2;Apartment;1100;Semi-Furnished;2;35000
+614;False;2;Independent Floor;550;Unfurnished;1;9500
+615;False;2;Apartment;980;Unfurnished;2;15000
+616;False;3;Apartment;1200;Semi-Furnished;2;13000
+617;False;3;Apartment;1365;Unfurnished;2;17000
+618;False;2;Apartment;1000;Unfurnished;1;20000
+619;False;3;Apartment;1920;Semi-Furnished;3;40000
+620;False;2;Apartment;900;Unfurnished;1;10000
+621;False;3;Apartment;1300;Semi-Furnished;2;20000
+622;False;3;Apartment;1300;Furnished;3;32000
+623;False;2;Apartment;750;Unfurnished;2;13500
+624;False;3;Apartment;1100;Semi-Furnished;2;35000
+625;False;3;Apartment;1300;Semi-Furnished;2;18001
+626;False;2;Apartment;750;Unfurnished;2;9100
+627;False;3;Apartment;1200;Furnished;3;35000
+628;False;1;Apartment;440;Unfurnished;1;6000
+629;False;2;Apartment;900;Unfurnished;2;11000
+630;False;4;Apartment;2000;Semi-Furnished;2;35000
+631;False;2;Apartment;900;Furnished;2;22000
+632;False;2;Apartment;1120;Furnished;2;28000
+633;False;2;Apartment;1070;Semi-Furnished;2;12000
+634;False;2;Apartment;876;Semi-Furnished;2;22000
+635;False;3;Apartment;1617;Furnished;3;40000
+636;False;3;Apartment;1617;Semi-Furnished;3;26000
+637;False;3;Apartment;1254;Semi-Furnished;2;12000
+638;False;2;Apartment;896;Furnished;2;12500
+639;False;3;Apartment;1300;Unfurnished;2;17000
+640;False;3;Apartment;1300;Unfurnished;2;15000
+641;False;3;Apartment;1500;Unfurnished;2;21000
+642;False;1;Apartment;610;Semi-Furnished;1;9000
+643;False;1;Apartment;500;Furnished;1;15000
+644;False;2;Apartment;850;Furnished;2;18000
+645;False;3;Apartment;1400;Semi-Furnished;3;35000
+646;False;2;Apartment;600;Furnished;1;45000
+647;False;3;Apartment;1816;Furnished;2;35000
+648;False;2;Apartment;800;Unfurnished;2;12000
+649;False;3;Apartment;1200;Furnished;3;40000
+650;False;1;Apartment;400;Semi-Furnished;1;8000
+651;False;3;Apartment;1500;Furnished;2;27000
+652;False;2;Apartment;1115;Semi-Furnished;2;13000
+653;False;3;Apartment;1605;Furnished;3;43000
+654;False;2;Apartment;1200;Furnished;2;25000
+655;False;2;Apartment;1200;Unfurnished;2;25000
+656;False;2;Apartment;866;Semi-Furnished;2;10000
+657;False;2;Apartment;1100;Furnished;2;22000
+658;False;3;Apartment;1415;Semi-Furnished;2;19000
+659;False;2;Apartment;900;Furnished;2;18000
+660;False;2;Apartment;750;Unfurnished;1;7000
+661;False;3;Apartment;1464;Unfurnished;3;15000
+662;True;3;Apartment;1100;Unfurnished;2;10501
+663;True;2;Apartment;867;Semi-Furnished;2;11000
+664;True;3;Apartment;1500;Semi-Furnished;3;22000
+665;True;2;Independent Floor;885;Semi-Furnished;2;20000
+666;False;2;Apartment;1450;Furnished;2;45000
+667;True;2;Independent Floor;950;Furnished;1;7000
+668;True;2;Apartment;940;Unfurnished;2;12250
+669;False;3;Apartment;1350;Furnished;2;26000
+670;False;3;Apartment;1220;Unfurnished;2;9500
+671;False;1;Apartment;424;Unfurnished;1;6000
+672;False;1;Apartment;500;Furnished;1;15000
+673;False;3;Apartment;1750;Unfurnished;3;22000
+674;True;1;Apartment;500;Furnished;1;4000
+675;True;2;Apartment;675;Furnished;1;23000
+676;False;3;Apartment;1120;Semi-Furnished;2;10000
+677;False;3;Apartment;945;Unfurnished;2;12000
+678;False;1;Apartment;435;Unfurnished;1;6500
+679;True;2;Apartment;1000;Semi-Furnished;2;10000
+680;True;2;Apartment;700;Semi-Furnished;2;13000
+681;True;2;Apartment;600;Semi-Furnished;1;8500
+682;False;2;Apartment;900;Unfurnished;2;15000
+683;True;2;Apartment;760;Unfurnished;2;6500
+684;True;3;Apartment;825;Semi-Furnished;2;16000
+685;True;2;Independent Floor;700;Unfurnished;1;7500
+686;False;2;Apartment;600;Furnished;2;16000
+687;False;1;Apartment;396;Unfurnished;1;4900
+688;False;2;Apartment;1200;Semi-Furnished;2;30000
+689;True;3;Independent Floor;800;Unfurnished;2;10000
+690;True;2;Independent Floor;1200;Unfurnished;1;6000
+691;False;3;Apartment;1410;Furnished;3;36000
+692;False;3;Apartment;1350;Unfurnished;2;33000
+693;True;3;Independent Floor;1500;Unfurnished;3;27000
+694;False;2;Apartment;750;Furnished;2;18000
+695;False;2;Apartment;849;Unfurnished;2;12000
+696;True;2;Independent Floor;950;Unfurnished;1;11000
+697;False;2;Apartment;711;Unfurnished;1;11000
+698;True;1;Apartment;500;Furnished;1;11000
+699;False;2;Apartment;800;Unfurnished;2;18000
+700;True;4;Independent Floor;1200;Unfurnished;2;50000
+701;False;1;Independent Floor;650;Furnished;1;15000
+702;False;2;Independent Floor;950;Semi-Furnished;1;9000
+703;False;1;Apartment;770;Furnished;1;15000
+704;False;2;Apartment;1718;Semi-Furnished;2;30000
+705;False;3;Apartment;1455;Semi-Furnished;2;30000
+706;True;2;Apartment;650;Unfurnished;2;10000
+707;False;1;Apartment;520;Unfurnished;1;7500
+708;True;1;Independent Floor;550;Furnished;1;7000
+709;True;2;Apartment;600;Furnished;2;16000
+710;False;2;Apartment;750;Unfurnished;2;7500
+711;False;2;Apartment;700;Semi-Furnished;1;14000
+712;False;1;Apartment;650;Unfurnished;1;6500
+713;False;1;Apartment;1434;Semi-Furnished;2;22000
+714;False;2;Apartment;906;Unfurnished;2;22000
+715;True;1;Apartment;402;Unfurnished;1;6000
+716;True;3;Apartment;1343;Unfurnished;2;20000
+717;False;3;Apartment;1100;Unfurnished;2;13000
+718;False;2;Apartment;700;Unfurnished;2;9000
+719;False;2;Apartment;850;Unfurnished;1;12900
+720;False;2;Apartment;694;Unfurnished;1;10300
+721;False;2;Apartment;739;Unfurnished;1;9000
+722;True;3;Apartment;1000;Furnished;2;13000
+723;True;2;Apartment;834;Semi-Furnished;2;22000
+724;True;3;Apartment;1351;Semi-Furnished;2;24500
+725;False;3;Apartment;2147;Semi-Furnished;3;40000
+726;False;4;Apartment;1892;Unfurnished;4;48000
+727;False;3;Apartment;1405;Unfurnished;3;27000
+728;True;2;Apartment;700;Semi-Furnished;1;18000
+729;True;2;Apartment;815;Furnished;2;35000
+730;True;2;Apartment;750;Unfurnished;1;7500
+731;True;2;Apartment;780;Furnished;2;17000
+732;True;2;Apartment;1141;Semi-Furnished;2;17500
+733;True;2;Apartment;850;Unfurnished;2;16000
+734;True;2;Apartment;600;Semi-Furnished;1;14000
+735;True;2;Apartment;946;Unfurnished;2;16000
+736;True;2;Independent Floor;750;Semi-Furnished;1;8500
+737;True;2;Apartment;500;Unfurnished;2;15000
+738;True;1;Independent Floor;650;Unfurnished;1;8500
+739;True;3;Apartment;888;Semi-Furnished;3;29000
+740;True;2;Apartment;850;Semi-Furnished;1;15000
+741;True;2;Apartment;1200;Unfurnished;2;7500
+742;True;2;Apartment;1000;Semi-Furnished;2;17000
+743;True;2;Independent Floor;1000;Unfurnished;2;12000
+744;True;3;Apartment;1235;Semi-Furnished;2;16000
+745;True;2;Apartment;873;Unfurnished;2;10000
+746;True;2;Independent Floor;575;Unfurnished;1;7000
+747;True;3;Apartment;1300;Unfurnished;2;25000
+748;True;2;Apartment;700;Furnished;2;12000
+749;True;3;Independent Floor;1600;Unfurnished;3;35000
+750;True;2;Apartment;822;Unfurnished;2;12000
+751;True;3;Independent Floor;1100;Unfurnished;1;7500
+752;True;2;Independent Floor;600;Semi-Furnished;1;6500
+753;True;1;Apartment;635;Semi-Furnished;1;40000
+754;True;1;Apartment;430;Semi-Furnished;2;27000
+755;True;3;Apartment;1200;Semi-Furnished;2;54000
+756;False;1;Apartment;650;Semi-Furnished;1;15000
+757;False;1;Apartment;650;Unfurnished;2;17000
+758;False;1;Apartment;625;Furnished;1;16000
+759;False;2;Apartment;750;Semi-Furnished;2;35000
+760;False;2;Apartment;850;Unfurnished;1;7500
+761;False;1;Apartment;550;Unfurnished;1;40000
+762;False;2;Apartment;950;Unfurnished;2;40000
+763;False;2;Apartment;1100;Unfurnished;3;29000
+764;True;3;Apartment;1400;Semi-Furnished;3;50000
+765;True;2;Apartment;1060;Furnished;2;11900
+766;True;1;Apartment;700;Semi-Furnished;2;22000
+767;True;1;Apartment;630;Semi-Furnished;2;28000
+768;False;2;Apartment;1050;Unfurnished;2;26000
+769;False;1;Apartment;620;Unfurnished;1;19000
+770;False;1;Apartment;700;Semi-Furnished;2;25000
+771;False;2;Apartment;1125;Furnished;2;42000
+772;False;2;Apartment;1190;Unfurnished;2;19000
+773;False;2;Apartment;1100;Semi-Furnished;2;43000
+774;False;3;Apartment;1100;Semi-Furnished;2;49000
+775;False;3;Apartment;1200;Furnished;2;45000
+776;False;2;Apartment;970;Unfurnished;2;41500
+777;False;3;Apartment;1200;Semi-Furnished;3;38000
+778;False;3;Apartment;1500;Semi-Furnished;3;54000
+779;False;2;Apartment;1100;Semi-Furnished;2;35000
+780;False;2;Apartment;1244;Furnished;2;23000
+781;False;2;Apartment;718;Semi-Furnished;2;9000
+782;False;2;Apartment;1100;Semi-Furnished;2;55000
+783;False;1;Apartment;630;Unfurnished;1;10500
+784;False;2;Apartment;850;Furnished;1;15000
+785;False;3;Apartment;1400;Semi-Furnished;2;44000
+786;False;2;Apartment;985;Unfurnished;2;42100
+787;False;2;Apartment;1025;Semi-Furnished;3;54500
+788;False;3;Apartment;1099;Unfurnished;2;13500
+789;False;3;Apartment;1811;Unfurnished;2;36000
+790;False;2;Apartment;872;Semi-Furnished;2;8000
+791;False;2;Apartment;776;Semi-Furnished;2;12000
+792;False;1;Apartment;595;Unfurnished;2;6545
+793;False;1;Apartment;550;Semi-Furnished;1;31000
+794;False;1;Apartment;450;Semi-Furnished;1;12000
+795;False;2;Apartment;1100;Unfurnished;2;14000
+796;False;1;Apartment;600;Semi-Furnished;1;35100
+797;False;2;Apartment;955;Semi-Furnished;2;42000
+798;False;3;Apartment;1935;Furnished;3;60100
+799;False;2;Apartment;860;Semi-Furnished;2;40000
+800;False;2;Apartment;1102;Semi-Furnished;2;32000
+801;False;1;Apartment;595;Unfurnished;2;20000
+802;False;1;Apartment;850;Unfurnished;1;32000
+803;False;2;Apartment;1090;Unfurnished;2;30000
+804;False;2;Apartment;950;Unfurnished;2;15500
+805;False;2;Apartment;1400;Furnished;2;37000
+806;False;1;Apartment;550;Semi-Furnished;1;8500
+807;False;2;Apartment;1350;Unfurnished;2;16000
+808;False;2;Apartment;810;Furnished;2;50000
+809;False;2;Apartment;860;Furnished;2;45000
+810;False;1;Apartment;600;Furnished;1;45000
+811;False;1;Apartment;1000;Unfurnished;1;55000
+812;False;3;Apartment;1150;Furnished;3;60000
+813;False;2;Apartment;625;Semi-Furnished;1;12100
+814;False;1;Apartment;565;Unfurnished;1;8000
+815;False;2;Apartment;1200;Semi-Furnished;2;40000
+816;False;1;Apartment;700;Unfurnished;1;7500
+817;False;3;Apartment;1500;Semi-Furnished;3;22000
+818;False;2;Apartment;955;Furnished;2;50000
+819;False;1;Apartment;800;Semi-Furnished;1;40000
+820;False;2;Apartment;1200;Semi-Furnished;2;55000
+821;False;1;Apartment;350;Unfurnished;1;21000
+822;False;1;Apartment;890;Semi-Furnished;2;9000
+823;False;1;Apartment;550;Semi-Furnished;1;22000
+824;False;2;Apartment;890;Semi-Furnished;2;8500
+825;False;2;Apartment;560;Unfurnished;2;30000
+826;False;2;Apartment;850;Unfurnished;2;52000
+827;False;2;Apartment;700;Semi-Furnished;2;48000
+828;False;1;Apartment;650;Unfurnished;1;50000
+829;False;3;Apartment;1450;Unfurnished;2;48000
+830;False;2;Apartment;1050;Semi-Furnished;2;45000
+831;False;2;Apartment;1160;Semi-Furnished;2;46000
+832;False;3;Apartment;960;Semi-Furnished;3;49000
+833;False;1;Apartment;550;Furnished;1;50000
+834;False;2;Apartment;945;Semi-Furnished;2;35000
+835;False;2;Apartment;990;Semi-Furnished;2;32000
+836;False;1;Apartment;550;Furnished;1;58000
+837;False;1;Apartment;600;Semi-Furnished;1;9997
+838;False;2;Apartment;1135;Unfurnished;2;44500
+839;False;2;Apartment;1000;Furnished;2;35000
+840;False;2;Apartment;900;Semi-Furnished;2;55000
+841;False;1;Apartment;700;Semi-Furnished;2;14005
+842;False;2;Apartment;1050;Furnished;2;52000
+843;False;1;Apartment;600;Semi-Furnished;1;30000
+844;False;3;Apartment;1350;Furnished;3;62000
+845;False;3;Apartment;1545;Unfurnished;3;56000
+846;False;1;Apartment;700;Unfurnished;1;14000
+847;False;2;Apartment;900;Semi-Furnished;2;33001
+848;False;3;Apartment;1500;Furnished;3;48000
+849;False;1;Apartment;600;Furnished;1;14000
+850;False;2;Apartment;910;Semi-Furnished;2;39000
+851;False;1;Apartment;645;Semi-Furnished;2;38000
+852;False;1;Apartment;600;Furnished;2;34500
+853;False;2;Apartment;825;Unfurnished;2;35000
+854;False;2;Apartment;980;Unfurnished;2;28000
+855;False;2;Apartment;980;Semi-Furnished;2;50000
+856;False;3;Apartment;1430;Furnished;3;52000
+857;False;2;Apartment;600;Semi-Furnished;2;40000
+858;False;2;Apartment;980;Semi-Furnished;2;45000
+859;False;2;Apartment;780;Semi-Furnished;2;38001
+860;False;2;Apartment;1500;Furnished;2;38000
+861;False;1;Apartment;715;Semi-Furnished;2;27000
+862;False;2;Apartment;840;Furnished;2;40000
+863;False;1;Apartment;646;Furnished;2;28800
+864;False;2;Apartment;780;Furnished;2;60000
+865;False;2;Apartment;1160;Unfurnished;2;26000
+866;False;2;Apartment;1100;Unfurnished;2;42000
+867;False;2;Apartment;900;Unfurnished;2;49500
+868;False;2;Apartment;960;Furnished;2;52000
+869;False;2;Apartment;830;Semi-Furnished;2;52000
+870;False;1;Apartment;550;Semi-Furnished;1;32000
+871;False;2;Apartment;1000;Furnished;3;49000
+872;False;1;Apartment;650;Unfurnished;2;24000
+873;False;2;Apartment;1260;Semi-Furnished;2;39000
+874;False;2;Apartment;800;Unfurnished;2;45000
+875;False;2;Apartment;1084;Semi-Furnished;2;24000
+876;False;2;Apartment;850;Unfurnished;2;55000
+877;False;1;Apartment;670;Unfurnished;2;20000
+878;False;3;Apartment;1450;Unfurnished;3;53000
+879;False;3;Apartment;1150;Unfurnished;2;35000
+880;False;4;Apartment;1000;Unfurnished;2;21000
+881;False;2;Apartment;1000;Semi-Furnished;2;21000
+882;False;2;Apartment;1200;Semi-Furnished;2;38000
+883;False;3;Apartment;1520;Semi-Furnished;3;32000
+884;False;1;Apartment;700;Furnished;1;49000
+885;False;1;Apartment;560;Semi-Furnished;1;46000
+886;False;2;Apartment;1000;Semi-Furnished;2;35000
+887;False;3;Apartment;1700;Semi-Furnished;3;20000
+888;False;1;Apartment;650;Semi-Furnished;2;29000
+889;False;2;Apartment;1180;Semi-Furnished;2;21500
+890;False;2;Apartment;1080;Semi-Furnished;2;26000
+891;False;3;Apartment;1350;Unfurnished;3;25000
+892;False;1;Apartment;601;Semi-Furnished;1;10000
+893;False;3;Apartment;1065;Semi-Furnished;3;30000
+894;False;1;Apartment;565;Semi-Furnished;1;19000
+895;False;3;Apartment;1650;Furnished;3;26000
+896;False;2;Apartment;1200;Semi-Furnished;2;24000
+897;False;1;Independent Floor;700;Unfurnished;1;17000
+898;False;1;Apartment;675;Semi-Furnished;2;12539
+899;False;1;Apartment;450;Semi-Furnished;1;7500
+900;False;1;Apartment;550;Semi-Furnished;2;45000
+901;False;1;Apartment;575;Semi-Furnished;1;14500
+902;False;1;Apartment;750;Semi-Furnished;2;18000
+903;False;1;Apartment;580;Semi-Furnished;2;50000
+904;False;2;Apartment;1175;Furnished;2;39000
+905;False;3;Apartment;1740;Semi-Furnished;3;52000
+906;False;3;Apartment;1450;Semi-Furnished;3;49000
+907;False;2;Apartment;1200;Semi-Furnished;2;16000
+908;False;1;Apartment;520;Furnished;1;16640
+909;False;1;Apartment;700;Semi-Furnished;2;13901
+910;False;2;Apartment;1050;Furnished;2;33000
+911;False;3;Apartment;1400;Unfurnished;2;47000
+912;False;1;Apartment;560;Furnished;1;45000
+913;False;1;Apartment;550;Unfurnished;2;23000
+914;False;3;Apartment;1350;Semi-Furnished;3;44000
+915;False;3;Apartment;1250;Semi-Furnished;3;40000
+916;False;2;Apartment;950;Unfurnished;1;25000
+917;False;1;Apartment;550;Unfurnished;1;15000
+918;False;2;Apartment;950;Semi-Furnished;2;23000
+919;False;2;Apartment;1000;Unfurnished;2;45000
+920;False;1;Apartment;700;Furnished;1;56000
+921;False;2;Apartment;1250;Unfurnished;2;40000
+922;False;2;Apartment;965;Semi-Furnished;2;36000
+923;False;1;Apartment;596;Semi-Furnished;1;32000
+924;False;3;Apartment;1050;Semi-Furnished;3;36000
+925;False;1;Apartment;1000;Unfurnished;2;40000
+926;False;3;Apartment;1115;Semi-Furnished;3;55000
+927;False;2;Apartment;960;Semi-Furnished;2;39000
+928;False;1;Apartment;594;Unfurnished;1;8500
+929;False;1;Apartment;650;Furnished;2;28000
+930;False;1;Apartment;600;Furnished;2;18000
+931;False;2;Apartment;1172;Furnished;2;25000
+932;False;1;Apartment;550;Semi-Furnished;1;31000
+933;False;3;Apartment;1305;Semi-Furnished;3;60000
+934;False;2;Apartment;800;Semi-Furnished;2;38000
+935;False;2;Apartment;1200;Furnished;2;40000
+936;False;2;Apartment;1154;Unfurnished;2;14000
+937;False;2;Apartment;650;Unfurnished;2;20000
+938;False;1;Apartment;365;Semi-Furnished;1;16500
+939;False;2;Apartment;1010;Furnished;2;37000
+940;False;3;Apartment;1650;Semi-Furnished;3;36000
+941;False;1;Apartment;600;Furnished;2;40000
+942;False;3;Apartment;2000;Furnished;2;28000
+943;False;1;Apartment;600;Unfurnished;1;7000
+944;False;1;Apartment;460;Furnished;1;35000
+945;False;1;Apartment;690;Furnished;1;37000
+946;False;2;Apartment;1250;Semi-Furnished;2;42000
+947;False;2;Apartment;1250;Unfurnished;2;40000
+948;False;2;Apartment;1000;Furnished;2;42000
+949;False;1;Apartment;550;Semi-Furnished;2;27000
+950;False;1;Apartment;630;Furnished;1;26500
+951;False;2;Apartment;850;Semi-Furnished;2;50000
+952;False;2;Apartment;1000;Semi-Furnished;2;58000
+953;False;1;Apartment;740;Unfurnished;1;59000
+954;False;2;Apartment;1000;Unfurnished;2;35000
+955;False;3;Apartment;1590;Unfurnished;3;38000
+956;False;2;Apartment;800;Unfurnished;2;46000
+957;False;1;Apartment;600;Unfurnished;1;18000
+958;False;1;Apartment;590;Semi-Furnished;1;19000
+959;False;3;Apartment;2030;Semi-Furnished;3;50000
+960;False;1;Apartment;599;Semi-Furnished;1;21000
+961;False;2;Apartment;850;Furnished;2;32000
+962;False;1;Apartment;600;Semi-Furnished;1;21000
+963;False;1;Apartment;420;Furnished;1;18000
+964;False;2;Apartment;1100;Semi-Furnished;2;24000
+965;False;2;Apartment;1050;Unfurnished;2;24000
+966;False;2;Apartment;1090;Semi-Furnished;2;48000
+967;False;1;Apartment;650;Semi-Furnished;2;30000
+968;False;3;Apartment;1500;Semi-Furnished;2;55000
+969;False;2;Apartment;1200;Semi-Furnished;2;50000
+970;False;1;Apartment;650;Semi-Furnished;1;30000
+971;False;1;Apartment;480;Semi-Furnished;2;14000
+972;False;1;Apartment;650;Unfurnished;1;30000
+973;False;2;Apartment;790;Furnished;2;45000
+974;False;1;Apartment;480;Unfurnished;1;21000
+975;False;1;Apartment;550;Unfurnished;1;18000
+976;False;1;Apartment;575;Semi-Furnished;1;20000
+977;False;1;Apartment;560;Semi-Furnished;1;24000
+978;False;2;Apartment;850;Semi-Furnished;2;26000
+979;False;2;Apartment;850;Furnished;2;28000
+980;False;1;Apartment;550;Unfurnished;2;39000
+981;False;3;Apartment;1000;Furnished;2;60000
+982;False;2;Apartment;1000;Unfurnished;2;40000
+983;False;1;Apartment;650;Semi-Furnished;1;9000
+984;False;1;Apartment;480;Furnished;1;44640
+985;False;1;Apartment;650;Semi-Furnished;1;16500
+986;False;2;Apartment;850;Unfurnished;2;14000
+987;False;2;Apartment;1240;Unfurnished;2;15000
+988;False;1;Apartment;650;Semi-Furnished;2;32000
+989;False;2;Apartment;1056;Unfurnished;2;27000
+990;False;1;Apartment;645;Unfurnished;1;17000
+991;False;2;Apartment;700;Unfurnished;2;60000
+992;False;2;Apartment;950;Furnished;2;17000
+993;False;2;Apartment;700;Semi-Furnished;2;18000
+994;False;1;Apartment;801;Unfurnished;1;7500
+995;False;1;Apartment;510;Unfurnished;2;25000
+996;False;2;Apartment;1125;Unfurnished;2;14500
+997;False;2;Apartment;995;Unfurnished;2;14000
+998;False;2;Apartment;800;Semi-Furnished;2;32000
+999;False;2;Apartment;950;Semi-Furnished;2;42000
+1000;False;3;Apartment;1400;Semi-Furnished;3;60000
+1001;False;2;Apartment;1100;Unfurnished;2;42000
+1002;False;1;Apartment;644;Unfurnished;2;28000
+1003;False;1;Apartment;644;Semi-Furnished;2;27500
+1004;False;3;Apartment;1400;Semi-Furnished;3;36000
+1005;False;1;Apartment;750;Unfurnished;1;25000
+1006;False;1;Apartment;650;Semi-Furnished;2;21000
+1007;False;1;Apartment;650;Unfurnished;1;24000
+1008;False;1;Apartment;560;Unfurnished;1;18000
+1009;False;1;Apartment;580;Semi-Furnished;1;19000
+1010;False;2;Apartment;1000;Semi-Furnished;2;52000
+1011;False;1;Apartment;500;Unfurnished;2;42000
+1012;False;1;Apartment;550;Semi-Furnished;2;24000
+1013;False;1;Apartment;621;Semi-Furnished;1;15000
+1014;False;2;Apartment;1154;Semi-Furnished;2;21000
+1015;False;2;Apartment;1040;Furnished;2;28000
+1016;False;2;Apartment;667;Unfurnished;2;32000
+1017;False;2;Apartment;1100;Semi-Furnished;2;32000
+1018;False;2;Apartment;1200;Unfurnished;2;21000
+1019;False;1;Apartment;670;Unfurnished;1;9500
+1020;False;2;Apartment;953;Semi-Furnished;2;20000
+1021;False;2;Apartment;860;Unfurnished;2;19000
+1022;False;2;Apartment;850;Furnished;2;47000
+1023;False;1;Apartment;650;Semi-Furnished;2;35000
+1024;False;2;Apartment;774;Semi-Furnished;2;10500
+1025;False;1;Apartment;596;Semi-Furnished;2;7500
+1026;False;1;Apartment;583;Unfurnished;2;9000
+1027;False;2;Apartment;750;Unfurnished;2;15000
+1028;False;1;Apartment;640;Semi-Furnished;2;14500
+1029;False;2;Apartment;850;Semi-Furnished;2;15000
+1030;False;3;Apartment;1970;Semi-Furnished;3;48000
+1031;False;2;Apartment;1175;Semi-Furnished;2;33000
+1032;False;3;Apartment;1585;Unfurnished;2;22000
+1033;False;1;Apartment;610;Unfurnished;2;32000
+1034;False;1;Apartment;600;Unfurnished;1;17000
+1035;False;1;Apartment;850;Semi-Furnished;2;30000
+1036;False;2;Apartment;800;Furnished;2;55000
+1037;False;2;Apartment;1125;Semi-Furnished;2;45000
+1038;False;1;Apartment;635;Unfurnished;2;23000
+1039;False;1;Apartment;525;Furnished;1;22000
+1040;False;1;Apartment;300;Unfurnished;1;15000
+1041;False;1;Apartment;720;Unfurnished;1;8000
+1042;False;3;Apartment;1132;Unfurnished;2;10000
+1043;False;2;Apartment;909;Unfurnished;2;13000
+1044;False;1;Apartment;675;Unfurnished;1;9000
+1045;False;1;Apartment;450;Unfurnished;1;35000
+1046;False;2;Apartment;850;Semi-Furnished;2;50000
+1047;False;1;Apartment;575;Unfurnished;1;13000
+1048;False;1;Apartment;540;Semi-Furnished;2;50000
+1049;False;3;Apartment;1680;Semi-Furnished;3;44000
+1050;False;1;Apartment;540;Unfurnished;1;27000
+1051;False;2;Apartment;1050;Semi-Furnished;2;55000
+1052;False;2;Apartment;890;Furnished;2;40000
+1053;False;2;Apartment;980;Furnished;2;27000
+1054;False;1;Apartment;610;Unfurnished;1;20000
+1055;False;2;Apartment;1050;Semi-Furnished;3;17000
+1056;False;1;Apartment;480;Unfurnished;2;13000
+1057;False;1;Apartment;550;Furnished;1;16000
+1058;False;2;Apartment;787;Semi-Furnished;2;23000
+1059;False;3;Apartment;1450;Furnished;3;35000
+1060;False;2;Apartment;950;Furnished;2;32000
+1061;False;1;Apartment;640;Furnished;1;23000
+1062;False;1;Apartment;580;Semi-Furnished;2;35000
+1063;False;1;Apartment;630;Unfurnished;1;40000
+1064;False;2;Apartment;1065;Unfurnished;2;18500
+1065;False;2;Apartment;700;Semi-Furnished;1;20000
+1066;False;2;Apartment;1058;Semi-Furnished;2;24500
+1067;False;1;Apartment;620;Unfurnished;2;18500
+1068;False;2;Apartment;1050;Furnished;2;43000
+1069;False;1;Apartment;500;Semi-Furnished;1;23000
+1070;False;2;Apartment;1000;Unfurnished;2;37000
+1071;False;1;Apartment;650;Unfurnished;2;26000
+1072;False;2;Apartment;1200;Semi-Furnished;2;45000
+1073;False;1;Apartment;650;Furnished;1;27000
+1074;False;2;Apartment;715;Furnished;2;18000
+1075;False;2;Apartment;995;Unfurnished;2;9000
+1076;False;2;Apartment;1180;Unfurnished;2;18000
+1077;False;1;Apartment;650;Unfurnished;2;6500
+1078;False;1;Apartment;710;Semi-Furnished;1;7500
+1079;False;1;Apartment;600;Unfurnished;1;14000
+1080;False;2;Apartment;950;Semi-Furnished;2;10995
+1081;False;1;Apartment;675;Furnished;2;30000
+1082;False;3;Apartment;1750;Semi-Furnished;3;50000
+1083;False;2;Apartment;1250;Furnished;2;50000
+1084;False;3;Apartment;1800;Unfurnished;3;60000
+1085;False;1;Apartment;600;Furnished;1;40000
+1086;False;1;Apartment;400;Unfurnished;1;30000
+1087;False;1;Apartment;600;Semi-Furnished;1;20000
+1088;False;2;Apartment;800;Semi-Furnished;2;30000
+1089;False;1;Apartment;545;Semi-Furnished;2;23000
+1090;False;2;Apartment;740;Unfurnished;2;26000
+1091;False;2;Apartment;950;Unfurnished;2;36000
+1092;False;1;Apartment;650;Furnished;2;50000
+1093;False;1;Apartment;680;Furnished;1;21000
+1094;False;2;Apartment;780;Furnished;2;45000
+1095;False;2;Apartment;850;Unfurnished;2;35000
+1096;False;2;Apartment;1121;Unfurnished;2;37500
+1097;False;1;Apartment;575;Unfurnished;2;20500
+1098;False;3;Apartment;1250;Semi-Furnished;3;39000
+1099;False;1;Apartment;650;Unfurnished;1;16000
+1100;False;1;Apartment;530;Furnished;2;42000
+1101;False;1;Apartment;650;Unfurnished;1;6500
+1102;False;1;Apartment;585;Unfurnished;1;6500
+1103;False;1;Apartment;550;Unfurnished;1;14000
+1104;False;2;Apartment;1000;Semi-Furnished;2;28000
+1105;False;1;Apartment;550;Unfurnished;2;14000
+1106;False;1;Apartment;650;Semi-Furnished;1;24000
+1107;False;3;Apartment;1645;Unfurnished;3;38000
+1108;False;1;Apartment;410;Semi-Furnished;1;26000
+1109;False;2;Apartment;650;Furnished;2;60000
+1110;False;2;Apartment;1250;Unfurnished;2;16000
+1111;False;2;Apartment;1220;Unfurnished;2;14000
+1112;False;2;Apartment;1050;Semi-Furnished;3;16000
+1113;False;1;Apartment;325;Unfurnished;1;15500
+1114;False;2;Apartment;850;Semi-Furnished;2;32000
+1115;False;2;Apartment;720;Semi-Furnished;2;26000
+1116;False;1;Apartment;650;Semi-Furnished;1;10500
+1117;False;2;Apartment;950;Semi-Furnished;2;32000
+1118;False;1;Apartment;800;Unfurnished;1;42000
+1119;False;1;Apartment;490;Unfurnished;1;35000
+1120;False;1;Apartment;500;Unfurnished;1;13000
+1121;False;2;Apartment;1100;Semi-Furnished;2;38000
+1122;False;1;Apartment;621;Furnished;2;23000
+1123;False;3;Apartment;1632;Semi-Furnished;2;50000
+1124;False;1;Apartment;535;Unfurnished;2;6500
+1125;False;1;Apartment;620;Unfurnished;2;45000
+1126;False;2;Apartment;1098;Semi-Furnished;2;33000
+1127;False;2;Apartment;1110;Unfurnished;2;10000
+1128;False;2;Apartment;1300;Semi-Furnished;2;40000
+1129;False;2;Apartment;1120;Furnished;2;50000
+1130;False;2;Apartment;1000;Semi-Furnished;2;60000
+1131;False;3;Apartment;1100;Unfurnished;2;47000
+1132;False;1;Apartment;700;Semi-Furnished;1;31000
+1133;False;3;Apartment;1535;Furnished;3;41000
+1134;False;3;Apartment;1490;Furnished;3;36500
+1135;False;1;Apartment;950;Semi-Furnished;3;32000
+1136;False;2;Apartment;1050;Unfurnished;2;15000
+1137;False;1;Apartment;450;Unfurnished;1;14500
+1138;False;2;Apartment;1400;Furnished;2;7000
+1139;False;1;Apartment;550;Unfurnished;1;7000
+1140;False;2;Apartment;1200;Unfurnished;2;11500
+1141;False;1;Apartment;700;Unfurnished;1;12000
+1142;False;1;Apartment;500;Semi-Furnished;2;26000
+1143;False;3;Apartment;1095;Semi-Furnished;3;12000
+1144;False;1;Apartment;710;Semi-Furnished;2;15000
+1145;False;1;Apartment;650;Unfurnished;1;6000
+1146;False;2;Apartment;1100;Semi-Furnished;2;17000
+1147;False;3;Apartment;1000;Unfurnished;2;13000
+1148;False;3;Apartment;1800;Semi-Furnished;3;30000
+1149;False;2;Apartment;875;Semi-Furnished;2;30000
+1150;False;2;Apartment;1150;Semi-Furnished;2;31000
+1151;False;2;Apartment;1200;Furnished;2;13000
+1152;False;1;Apartment;600;Unfurnished;1;18000
+1153;False;2;Apartment;950;Semi-Furnished;1;21000
+1154;False;1;Apartment;750;Semi-Furnished;2;19000
+1155;False;2;Apartment;1010;Semi-Furnished;2;20000
+1156;False;1;Apartment;550;Semi-Furnished;1;19000
+1157;False;3;Apartment;1300;Furnished;3;26000
+1158;False;1;Apartment;520;Furnished;2;36000
+1159;False;1;Apartment;502;Semi-Furnished;1;25000
+1160;False;1;Apartment;700;Furnished;2;29999
+1161;False;2;Apartment;905;Unfurnished;2;12500
+1162;False;1;Apartment;595;Furnished;1;14000
+1163;False;1;Apartment;650;Semi-Furnished;1;12000
+1164;False;1;Apartment;545;Unfurnished;2;7100
+1165;False;2;Apartment;933;Unfurnished;2;18000
+1166;False;1;Apartment;599;Unfurnished;2;14500
+1167;False;1;Apartment;350;Unfurnished;2;19000
+1168;False;1;Apartment;350;Unfurnished;1;18000
+1169;False;3;Apartment;1365;Unfurnished;2;25000
+1170;False;3;Apartment;1740;Unfurnished;3;53000
+1171;False;1;Apartment;580;Unfurnished;2;28000
+1172;False;2;Apartment;900;Furnished;2;28000
+1173;False;1;Apartment;530;Unfurnished;1;5000
+1174;False;2;Apartment;1100;Furnished;2;32000
+1175;False;1;Apartment;670;Unfurnished;1;25000
+1176;False;2;Apartment;1250;Unfurnished;2;52000
+1177;False;1;Apartment;545;Semi-Furnished;2;7500
+1178;False;2;Apartment;980;Semi-Furnished;2;50000
+1179;False;3;Apartment;1600;Semi-Furnished;3;47000
+1180;False;1;Apartment;550;Unfurnished;2;8500
+1181;False;2;Apartment;975;Semi-Furnished;2;25000
+1182;False;2;Apartment;1000;Unfurnished;2;45000
+1183;False;2;Apartment;1210;Semi-Furnished;2;26000
+1184;False;2;Apartment;1215;Furnished;2;45000
+1185;False;1;Apartment;390;Unfurnished;2;14000
+1186;False;1;Apartment;650;Furnished;2;25999
+1187;False;2;Apartment;982;Furnished;2;49999
+1188;False;1;Apartment;585;Semi-Furnished;2;24000
+1189;False;1;Apartment;650;Furnished;2;31999
+1190;False;1;Apartment;850;Furnished;2;55000
+1191;False;2;Apartment;945;Unfurnished;2;10000
+1192;False;2;Apartment;980;Semi-Furnished;2;14000
+1193;False;2;Apartment;850;Semi-Furnished;2;52000
+1194;False;1;Apartment;585;Furnished;1;27000
+1195;False;1;Apartment;600;Unfurnished;1;24000
+1196;False;1;Apartment;545;Unfurnished;1;13500
+1197;False;2;Apartment;776;Unfurnished;2;15000
+1198;False;2;Apartment;630;Semi-Furnished;2;22000
+1199;False;2;Apartment;800;Semi-Furnished;2;28000
+1200;False;1;Apartment;584;Unfurnished;1;16000
+1201;False;1;Apartment;525;Unfurnished;1;5000
+1202;False;1;Apartment;430;Unfurnished;1;5000
+1203;False;2;Apartment;750;Semi-Furnished;2;36000
+1204;False;2;Apartment;1175;Unfurnished;2;20000
+1205;False;2;Apartment;950;Unfurnished;2;35000
+1206;False;2;Apartment;815;Semi-Furnished;2;26000
+1207;False;2;Apartment;1080;Furnished;2;13000
+1208;False;2;Apartment;870;Furnished;2;38000
+1209;False;2;Apartment;1200;Semi-Furnished;2;46000
+1210;False;3;Apartment;1250;Semi-Furnished;2;36000
+1211;False;2;Apartment;800;Semi-Furnished;2;32000
+1212;False;2;Apartment;965;Unfurnished;2;15000
+1213;False;2;Apartment;472;Semi-Furnished;2;30000
+1214;False;1;Apartment;600;Semi-Furnished;1;12000
+1215;False;2;Apartment;1125;Semi-Furnished;2;35000
+1216;False;1;Apartment;603;Semi-Furnished;1;19000
+1217;False;2;Apartment;1200;Semi-Furnished;2;28000
+1218;False;2;Apartment;1260;Unfurnished;2;18000
+1219;False;1;Apartment;475;Unfurnished;1;9000
+1220;False;2;Apartment;1000;Unfurnished;2;30000
+1221;False;3;Apartment;1350;Semi-Furnished;3;58000
+1222;False;1;Apartment;300;Unfurnished;1;17000
+1223;False;2;Apartment;955;Unfurnished;2;13500
+1224;False;1;Apartment;380;Unfurnished;1;15000
+1225;False;1;Apartment;560;Unfurnished;2;22000
+1226;False;1;Apartment;820;Semi-Furnished;1;14000
+1227;False;2;Apartment;1050;Furnished;2;36000
+1228;False;3;Apartment;1700;Semi-Furnished;3;18000
+1229;False;1;Apartment;645;Furnished;1;30000
+1230;False;1;Apartment;350;Unfurnished;1;16000
+1231;False;2;Apartment;960;Unfurnished;2;45000
+1232;False;1;Apartment;520;Semi-Furnished;2;32000
+1233;False;1;Apartment;975;Furnished;2;55000
+1234;False;2;Apartment;950;Semi-Furnished;2;23000
+1235;False;1;Apartment;640;Furnished;2;19000
+1236;False;1;Apartment;585;Unfurnished;1;14000
+1237;False;1;Apartment;700;Furnished;2;32000
+1238;False;2;Apartment;1050;Unfurnished;2;27000
+1239;False;1;Apartment;550;Unfurnished;1;25000
+1240;False;2;Apartment;900;Unfurnished;2;27000
+1241;False;2;Apartment;1267;Furnished;2;30000
+1242;False;2;Apartment;960;Semi-Furnished;2;54000
+1243;False;1;Apartment;600;Unfurnished;1;32000
+1244;False;3;Apartment;1200;Unfurnished;3;45000
+1245;False;2;Apartment;1020;Furnished;2;36000
+1246;False;2;Apartment;1050;Semi-Furnished;2;42000
+1247;False;3;Apartment;1272;Furnished;3;60000
+1248;False;1;Apartment;550;Furnished;2;35000
+1249;False;2;Apartment;1210;Furnished;2;32000
+1250;False;2;Apartment;960;Furnished;2;58000
+1251;False;2;Apartment;1350;Unfurnished;2;22000
+1252;False;3;Apartment;1200;Furnished;3;20000
+1253;False;1;Apartment;550;Unfurnished;1;30000
+1254;False;1;Apartment;670;Unfurnished;1;7500
+1255;False;1;Apartment;650;Furnished;2;45000
+1256;False;1;Apartment;750;Unfurnished;2;30000
+1257;False;2;Apartment;890;Semi-Furnished;2;10200
+1258;False;2;Apartment;1200;Semi-Furnished;2;58000
+1259;False;3;Apartment;1300;Semi-Furnished;3;44000
+1260;False;3;Apartment;1250;Unfurnished;3;36000
+1261;False;1;Apartment;618;Semi-Furnished;1;45000
+1262;False;2;Apartment;1090;Unfurnished;2;20000
+1263;False;1;Apartment;601;Semi-Furnished;1;14000
+1264;False;3;Apartment;1350;Furnished;3;60000
+1265;False;1;Apartment;610;Unfurnished;2;15500
+1266;False;3;Apartment;1650;Unfurnished;3;29000
+1267;False;3;Apartment;1800;Semi-Furnished;3;32000
+1268;False;1;Apartment;657;Unfurnished;1;21000
+1269;False;3;Apartment;1650;Furnished;3;30000
+1270;False;1;Apartment;610;Unfurnished;1;18000
+1271;False;1;Apartment;800;Semi-Furnished;2;42000
+1272;False;1;Apartment;580;Unfurnished;1;20000
+1273;False;3;Apartment;1650;Semi-Furnished;3;29000
+1274;False;2;Apartment;760;Furnished;2;50000
+1275;False;2;Apartment;950;Unfurnished;2;55000
+1276;False;3;Apartment;1600;Semi-Furnished;3;52000
+1277;False;1;Apartment;540;Unfurnished;1;10000
+1278;False;2;Apartment;1330;Semi-Furnished;2;26000
+1279;False;2;Apartment;1110;Unfurnished;2;58000
+1280;False;2;Apartment;1116;Semi-Furnished;2;35000
+1281;False;1;Apartment;660;Semi-Furnished;1;17500
+1282;False;1;Apartment;580;Unfurnished;1;21000
+1283;False;2;Apartment;780;Unfurnished;2;28000
+1284;False;1;Apartment;600;Unfurnished;1;32000
+1285;False;1;Apartment;565;Unfurnished;1;35000
+1286;False;2;Apartment;1120;Semi-Furnished;3;35000
+1287;False;3;Apartment;1920;Semi-Furnished;3;46000
+1288;False;3;Apartment;1720;Semi-Furnished;3;50000
+1289;False;2;Apartment;1150;Furnished;2;48000
+1290;False;1;Apartment;560;Furnished;1;18000
+1291;False;2;Apartment;976;Furnished;2;42000
+1292;False;2;Apartment;999;Furnished;2;48000
+1293;False;2;Apartment;1138;Furnished;2;38000
+1294;False;1;Apartment;640;Semi-Furnished;1;11000
+1295;False;3;Apartment;1495;Furnished;3;27000
+1296;False;1;Apartment;620;Semi-Furnished;2;32000
+1297;False;2;Apartment;1420;Semi-Furnished;2;56500
+1298;False;1;Apartment;594;Furnished;1;25800
+1299;False;1;Apartment;600;Unfurnished;2;13500
+1300;False;1;Apartment;750;Unfurnished;1;28000
+1301;False;2;Apartment;850;Unfurnished;2;45000
+1302;False;2;Apartment;1100;Unfurnished;2;19500
+1303;False;1;Apartment;580;Semi-Furnished;1;18000
+1304;False;2;Apartment;1070;Semi-Furnished;2;20500
+1305;False;2;Apartment;850;Furnished;2;50000
+1306;False;2;Apartment;1020;Unfurnished;2;19000
+1307;False;2;Apartment;900;Semi-Furnished;2;28000
+1308;False;1;Apartment;575;Semi-Furnished;2;30000
+1309;False;2;Apartment;1100;Furnished;2;47000
+1310;False;1;Apartment;658;Furnished;2;31000
+1311;False;2;Apartment;1368;Semi-Furnished;2;25000
+1312;False;3;Apartment;1800;Semi-Furnished;3;45000
+1313;False;1;Apartment;575;Semi-Furnished;1;29000
+1314;False;2;Apartment;950;Unfurnished;2;55000
+1315;False;2;Apartment;850;Furnished;2;32000
+1316;False;2;Apartment;900;Furnished;2;34000
+1317;False;1;Apartment;570;Furnished;1;28000
+1318;False;1;Apartment;850;Furnished;2;58000
+1319;False;3;Apartment;1350;Furnished;3;45000
+1320;False;3;Apartment;1750;Semi-Furnished;3;33000
+1321;False;1;Apartment;500;Unfurnished;1;35000
+1322;False;2;Apartment;1020;Unfurnished;2;30000
+1323;False;2;Apartment;1127;Furnished;2;23000
+1324;False;1;Apartment;550;Unfurnished;1;27500
+1325;False;3;Apartment;1200;Unfurnished;3;17500
+1326;False;3;Apartment;1800;Furnished;3;30000
+1327;False;1;Apartment;382;Unfurnished;1;10000
+1328;False;2;Apartment;791;Unfurnished;2;22000
+1329;False;2;Apartment;900;Unfurnished;2;40000
+1330;False;1;Apartment;650;Unfurnished;1;8500
+1331;False;3;Apartment;1325;Semi-Furnished;3;46000
+1332;False;1;Apartment;685;Unfurnished;1;8500
+1333;False;1;Apartment;625;Unfurnished;1;8000
+1334;False;2;Apartment;845;Unfurnished;2;35000
+1335;False;1;Apartment;625;Semi-Furnished;2;17400
+1336;False;1;Apartment;550;Unfurnished;2;24000
+1337;False;1;Apartment;600;Unfurnished;2;12000
+1338;False;1;Apartment;550;Semi-Furnished;1;6000
+1339;False;1;Apartment;500;Unfurnished;2;11900
+1340;True;1;Apartment;450;Semi-Furnished;1;15000
+1341;True;2;Apartment;900;Unfurnished;2;30000
+1342;False;2;Apartment;1260;Semi-Furnished;2;28000
+1343;False;2;Apartment;900;Semi-Furnished;3;60000
+1344;False;2;Apartment;1100;Furnished;2;34000
+1345;True;1;Apartment;600;Unfurnished;1;5900
+1346;True;1;Apartment;300;Unfurnished;1;10000
+1347;True;2;Apartment;900;Semi-Furnished;2;60000
+1348;False;1;Apartment;450;Semi-Furnished;1;24000
+1349;False;2;Apartment;1110;Unfurnished;2;50000
+1350;False;1;Apartment;510;Semi-Furnished;1;37000
+1351;False;2;Apartment;1272;Semi-Furnished;2;45000
+1352;True;2;Apartment;900;Unfurnished;2;42500
+1353;False;2;Apartment;750;Unfurnished;2;13000
+1354;False;1;Apartment;620;Unfurnished;1;19500
+1355;True;1;Apartment;550;Unfurnished;2;20000
+1356;False;1;Apartment;650;Semi-Furnished;2;14500
+1357;False;3;Apartment;1326;Semi-Furnished;3;60000
+1358;True;1;Apartment;555;Semi-Furnished;1;10000
+1359;False;2;Apartment;885;Semi-Furnished;2;24000
+1360;True;1;Apartment;605;Unfurnished;1;5500
+1361;False;2;Apartment;820;Unfurnished;2;18000
+1362;True;2;Apartment;780;Semi-Furnished;2;35000
+1363;True;1;Apartment;560;Unfurnished;2;26000
+1364;False;1;Apartment;350;Unfurnished;1;35000
+1365;False;2;Apartment;1080;Furnished;2;25000
+1366;False;1;Apartment;640;Semi-Furnished;1;16000
+1367;False;2;Apartment;980;Unfurnished;2;15000
+1368;True;1;Apartment;600;Unfurnished;1;30000
+1369;True;2;Apartment;800;Furnished;2;55000
+1370;False;2;Apartment;1000;Unfurnished;2;20000
+1371;False;1;Apartment;540;Unfurnished;2;12000
+1372;False;2;Apartment;1197;Semi-Furnished;2;48000
+1373;False;1;Apartment;650;Semi-Furnished;1;18000
+1374;False;2;Apartment;1444;Unfurnished;2;45000
+1375;False;2;Apartment;960;Unfurnished;2;26000
+1376;False;2;Apartment;1040;Semi-Furnished;2;48000
+1377;False;1;Apartment;500;Semi-Furnished;2;51000
+1378;True;2;Apartment;650;Semi-Furnished;2;38000
+1379;True;1;Apartment;300;Semi-Furnished;1;5000
+1380;False;2;Apartment;1200;Furnished;2;17000
+1381;False;1;Apartment;650;Unfurnished;1;14500
+1382;False;1;Apartment;700;Unfurnished;2;17000
+1383;False;1;Apartment;580;Furnished;1;25000
+1384;False;2;Apartment;1151;Semi-Furnished;2;30000
+1385;False;2;Apartment;865;Semi-Furnished;2;33000
+1386;False;2;Apartment;890;Semi-Furnished;2;33000
+1387;False;2;Apartment;1100;Furnished;2;45000
+1388;False;1;Apartment;575;Unfurnished;2;18000
+1389;False;1;Apartment;630;Unfurnished;1;17000
+1390;False;1;Apartment;600;Semi-Furnished;1;38000
+1391;False;2;Apartment;887;Semi-Furnished;2;24000
+1392;False;3;Apartment;1700;Semi-Furnished;3;55000
+1393;False;2;Apartment;900;Semi-Furnished;2;32000
+1394;False;2;Apartment;780;Semi-Furnished;2;35000
+1395;False;2;Apartment;955;Semi-Furnished;2;38500
+1396;False;1;Apartment;650;Unfurnished;2;30000
+1397;False;2;Apartment;1000;Unfurnished;2;38000
+1398;False;1;Apartment;685;Unfurnished;1;37000
+1399;False;1;Apartment;650;Unfurnished;2;17500
+1400;False;3;Apartment;1690;Semi-Furnished;3;55000
+1401;False;2;Apartment;1200;Furnished;2;60000
+1402;False;2;Apartment;1225;Furnished;2;38000
+1403;True;1;Apartment;370;Furnished;1;20000
+1404;False;1;Apartment;360;Semi-Furnished;1;5000
+1405;True;3;Apartment;1250;Semi-Furnished;3;50000
+1406;False;1;Apartment;590;Unfurnished;2;6500
+1407;False;3;Apartment;1253;Furnished;3;25000
+1408;False;1;Apartment;260;Furnished;1;25000
+1409;False;2;Apartment;1064;Unfurnished;2;14000
+1410;False;1;Apartment;717;Unfurnished;1;8000
+1411;False;1;Apartment;600;Semi-Furnished;1;14000
+1412;False;2;Apartment;1280;Semi-Furnished;3;43000
+1413;False;1;Apartment;590;Semi-Furnished;2;25000
+1414;True;1;Apartment;520;Semi-Furnished;1;19000
+1415;False;1;Apartment;860;Unfurnished;2;26000
+1416;True;2;Apartment;980;Furnished;2;51000
+1417;False;1;Apartment;565;Unfurnished;1;7500
+1418;False;1;Apartment;315;Unfurnished;1;7000
+1419;False;1;Apartment;280;Unfurnished;1;15500
+1420;False;2;Apartment;980;Unfurnished;2;40000
+1421;False;2;Apartment;990;Semi-Furnished;2;28000
+1422;False;2;Apartment;952;Semi-Furnished;2;35000
+1423;True;1;Apartment;555;Semi-Furnished;1;25000
+1424;False;1;Apartment;450;Unfurnished;1;21000
+1425;False;1;Apartment;650;Unfurnished;1;7300
+1426;False;2;Apartment;871;Unfurnished;2;38000
+1427;False;2;Apartment;882;Unfurnished;2;40000
+1428;False;2;Apartment;1100;Unfurnished;2;53000
+1429;False;2;Apartment;1200;Semi-Furnished;2;46000
+1430;False;2;Apartment;621;Unfurnished;2;30000
+1431;False;3;Apartment;1770;Semi-Furnished;3;37000
+1432;False;2;Apartment;859;Unfurnished;2;33000
+1433;False;2;Apartment;1126;Unfurnished;2;20000
+1434;False;2;Apartment;973;Unfurnished;2;37000
+1435;True;1;Apartment;585;Semi-Furnished;2;10500
+1436;False;1;Apartment;599;Unfurnished;2;14500
+1437;True;1;Apartment;550;Semi-Furnished;2;22000
+1438;True;2;Apartment;620;Semi-Furnished;1;23000
+1439;False;2;Apartment;1080;Unfurnished;2;45000
+1440;False;3;Apartment;1149;Unfurnished;3;45000
+1441;False;1;Apartment;550;Semi-Furnished;1;40000
+1442;False;1;Apartment;620;Semi-Furnished;1;6000
+1443;False;2;Apartment;850;Unfurnished;2;6000
+1444;False;1;Apartment;525;Unfurnished;1;23000
+1445;False;1;Apartment;625;Semi-Furnished;1;6500
+1446;True;2;Apartment;1040;Unfurnished;2;19000
+1447;True;2;Apartment;1000;Unfurnished;2;35400
+1448;False;2;Apartment;600;Semi-Furnished;2;15500
+1449;False;3;Apartment;1495;Semi-Furnished;2;44000
+1450;False;3;Apartment;1157;Semi-Furnished;3;50000
+1451;False;2;Apartment;1000;Furnished;2;48000
+1452;False;1;Apartment;490;Unfurnished;2;2000
+1453;False;1;Apartment;627;Semi-Furnished;2;13500
+1454;True;1;Apartment;950;Furnished;2;45000
+1455;False;1;Apartment;385;Unfurnished;1;4000
+1456;False;2;Apartment;1044;Unfurnished;2;26000
+1457;False;1;Apartment;430;Unfurnished;2;12200
+1458;False;2;Apartment;1025;Unfurnished;2;22000
+1459;False;1;Apartment;450;Unfurnished;2;10000
+1460;False;1;Apartment;680;Unfurnished;2;18900
+1461;False;1;Apartment;550;Unfurnished;2;13900
+1462;False;2;Apartment;1025;Furnished;2;26000
+1463;False;2;Apartment;1145;Unfurnished;2;29000
+1464;False;2;Apartment;1200;Unfurnished;2;27000
+1465;False;2;Apartment;980;Unfurnished;2;18000
+1466;False;1;Apartment;633;Unfurnished;2;14000
+1467;False;1;Apartment;500;Unfurnished;2;9000
+1468;False;1;Apartment;340;Unfurnished;1;9000
+1469;True;2;Apartment;1040;Semi-Furnished;2;21000
+1470;True;2;Apartment;720;Semi-Furnished;2;4500
+1471;True;1;Apartment;600;Unfurnished;2;10000
+1472;False;1;Apartment;670;Unfurnished;2;6500
+1473;True;1;Apartment;600;Semi-Furnished;2;24800
+1474;True;1;Apartment;275;Semi-Furnished;1;22000
+1475;True;1;Apartment;465;Semi-Furnished;1;18000
+1476;True;2;Apartment;850;Semi-Furnished;2;37000
+1477;True;1;Apartment;390;Semi-Furnished;1;20000
+1478;True;2;Apartment;760;Unfurnished;2;23000
+1479;True;2;Apartment;1120;Furnished;2;42000
+1480;True;1;Apartment;550;Unfurnished;1;15000
+1481;True;1;Apartment;580;Semi-Furnished;1;26000
+1482;True;2;Apartment;940;Semi-Furnished;2;55000
+1483;True;2;Apartment;750;Semi-Furnished;2;17000
+1484;True;2;Apartment;750;Semi-Furnished;2;60000
+1485;True;2;Apartment;900;Unfurnished;2;18000
+1486;True;1;Apartment;650;Unfurnished;1;10000
+1487;True;1;Apartment;550;Unfurnished;1;9500
+1488;True;1;Apartment;550;Unfurnished;1;16000
+1489;True;2;Apartment;996;Semi-Furnished;2;32000
+1490;True;1;Apartment;500;Semi-Furnished;1;12500
+1491;True;1;Apartment;750;Unfurnished;1;16000
+1492;True;1;Apartment;620;Semi-Furnished;1;15000
+1493;True;2;Apartment;945;Semi-Furnished;2;28000
+1494;True;1;Apartment;472;Unfurnished;1;21000
+1495;True;2;Apartment;580;Semi-Furnished;1;16000
+1496;True;2;Apartment;1200;Unfurnished;2;22000
+1497;True;1;Apartment;575;Semi-Furnished;1;27000
+1498;True;1;Apartment;750;Unfurnished;1;9000
+1499;True;1;Apartment;575;Furnished;2;26500
+1500;True;2;Apartment;400;Furnished;1;40000
+1501;True;1;Apartment;585;Unfurnished;1;6800
+1502;True;2;Apartment;800;Unfurnished;2;16000
+1503;True;2;Apartment;1140;Semi-Furnished;2;25500
+1504;True;2;Apartment;1150;Semi-Furnished;2;42000
+1505;True;2;Apartment;900;Semi-Furnished;2;32500
+1506;True;2;Apartment;640;Unfurnished;1;13000
+1507;True;2;Apartment;1060;Furnished;2;26800
+1508;True;3;Apartment;1407;Semi-Furnished;3;31000
+1509;True;1;Apartment;570;Unfurnished;1;15000
+1510;True;1;Apartment;650;Semi-Furnished;1;11000
+1511;True;1;Apartment;683;Semi-Furnished;2;20000
+1512;True;2;Apartment;850;Semi-Furnished;2;28000
+1513;True;2;Apartment;650;Unfurnished;2;18000
+1514;True;2;Apartment;650;Semi-Furnished;2;9000
+1515;True;2;Apartment;1100;Unfurnished;3;22000
+1516;True;1;Apartment;400;Semi-Furnished;1;20000
+1517;True;1;Apartment;600;Unfurnished;1;20000
+1518;True;2;Apartment;791;Semi-Furnished;2;18000
+1519;True;1;Apartment;750;Semi-Furnished;2;30000
+1520;True;3;Apartment;1200;Semi-Furnished;2;60000
+1521;True;1;Apartment;528;Semi-Furnished;1;13500
+1522;True;1;Apartment;675;Unfurnished;1;6500
+1523;True;2;Apartment;830;Furnished;2;26500
+1524;True;1;Apartment;560;Unfurnished;1;27000
+1525;True;1;Apartment;439;Furnished;2;12345
+1526;True;1;Apartment;512;Semi-Furnished;1;11000
+1527;True;2;Apartment;850;Semi-Furnished;2;12000
+1528;True;3;Apartment;1080;Semi-Furnished;3;16000
+1529;True;1;Apartment;850;Unfurnished;1;8000
+1530;False;3;Apartment;1800;Unfurnished;3;32000
+1531;True;2;Apartment;880;Semi-Furnished;2;16500
+1532;True;1;Independent Floor;650;Unfurnished;1;8000
+1533;True;2;Apartment;840;Semi-Furnished;1;16000
+1534;False;1;Apartment;620;Unfurnished;1;10000
+1535;False;3;Apartment;1800;Semi-Furnished;3;26500
+1536;False;2;Apartment;1200;Furnished;2;33000
+1537;False;2;Apartment;1080;Semi-Furnished;2;21000
+1538;False;2;Apartment;1200;Furnished;2;35000
+1539;False;2;Apartment;1100;Furnished;2;40000
+1540;False;2;Apartment;1190;Semi-Furnished;2;15000
+1541;False;2;Apartment;1000;Furnished;2;21000
+1542;False;2;Apartment;1025;Semi-Furnished;2;18000
+1543;False;3;Apartment;1500;Unfurnished;3;23000
+1544;False;2;Apartment;1250;Furnished;2;31000
+1545;False;2;Apartment;560;Unfurnished;1;17000
+1546;False;3;Apartment;1400;Unfurnished;3;28000
+1547;False;1;Apartment;522;Furnished;1;17500
+1548;False;2;Apartment;1050;Semi-Furnished;2;21000
+1549;False;2;Apartment;820;Unfurnished;2;16000
+1550;False;2;Apartment;1020;Semi-Furnished;2;28000
+1551;False;2;Apartment;1020;Semi-Furnished;2;25000
+1552;False;2;Apartment;1120;Unfurnished;2;20000
+1553;False;2;Apartment;950;Semi-Furnished;2;19950
+1554;False;3;Apartment;1650;Furnished;3;50000
+1555;False;2;Apartment;1050;Unfurnished;2;28000
+1556;False;2;Apartment;1050;Semi-Furnished;2;15000
+1557;False;2;Apartment;845;Unfurnished;2;10000
+1558;False;2;Apartment;985;Semi-Furnished;2;11000
+1559;False;1;Apartment;589;Unfurnished;1;8000
+1560;False;2;Apartment;686;Unfurnished;1;10000
+1561;False;2;Apartment;920;Unfurnished;2;9000
+1562;False;3;Apartment;1500;Semi-Furnished;2;17500
+1563;False;2;Apartment;1250;Furnished;2;55000
+1564;False;2;Apartment;1000;Semi-Furnished;2;16000
+1565;False;2;Apartment;1100;Semi-Furnished;2;22000
+1566;False;3;Apartment;1000;Unfurnished;2;26000
+1567;False;2;Apartment;1180;Semi-Furnished;2;24000
+1568;False;1;Apartment;615;Unfurnished;1;15000
+1569;False;1;Apartment;860;Unfurnished;2;14000
+1570;False;3;Apartment;1650;Furnished;3;50000
+1571;False;3;Apartment;1650;Furnished;3;40000
+1572;False;2;Apartment;890;Semi-Furnished;2;14999
+1573;False;1;Apartment;490;Semi-Furnished;1;12000
+1574;False;3;Apartment;1350;Unfurnished;3;24000
+1575;False;3;Apartment;1550;Furnished;3;47000
+1576;False;2;Apartment;1220;Furnished;2;35000
+1577;False;1;Apartment;530;Unfurnished;1;17000
+1578;False;2;Apartment;1200;Unfurnished;2;20000
+1579;False;3;Apartment;1650;Furnished;3;45000
+1580;False;3;Apartment;1650;Semi-Furnished;3;31000
+1581;False;2;Independent Floor;950;Unfurnished;2;11000
+1582;False;2;Apartment;820;Semi-Furnished;2;21000
+1583;False;3;Apartment;1723;Furnished;3;44000
+1584;False;2;Apartment;1325;Unfurnished;2;26500
+1585;False;2;Apartment;950;Furnished;2;24000
+1586;False;3;Apartment;1700;Semi-Furnished;3;15990
+1587;False;2;Apartment;1045;Unfurnished;2;19000
+1588;False;1;Apartment;560;Unfurnished;2;14000
+1589;False;3;Apartment;1680;Unfurnished;3;27000
+1590;False;2;Apartment;950;Unfurnished;2;12500
+1591;False;3;Apartment;1400;Unfurnished;3;25000
+1592;False;2;Apartment;975;Unfurnished;2;17000
+1593;False;3;Apartment;1800;Semi-Furnished;4;25000
+1594;False;2;Apartment;1260;Semi-Furnished;3;24000
+1595;False;2;Apartment;1286;Semi-Furnished;2;21000
+1596;False;3;Apartment;1650;Semi-Furnished;4;28500
+1597;False;2;Apartment;1000;Unfurnished;2;20000
+1598;False;2;Apartment;950;Semi-Furnished;2;15000
+1599;False;2;Apartment;1102;Semi-Furnished;2;16000
+1600;False;2;Apartment;1130;Unfurnished;2;11000
+1601;False;2;Apartment;800;Semi-Furnished;2;14000
+1602;False;2;Apartment;1090;Semi-Furnished;2;22000
+1603;False;2;Apartment;1085;Unfurnished;2;15400
+1604;False;3;Apartment;1820;Semi-Furnished;3;38000
+1605;False;2;Apartment;812;Furnished;2;24000
+1606;False;2;Apartment;810;Semi-Furnished;2;14500
+1607;False;2;Apartment;838;Semi-Furnished;2;10000
+1608;False;1;Apartment;600;Semi-Furnished;1;10500
+1609;False;2;Apartment;1100;Furnished;2;30000
+1610;False;2;Apartment;900;Semi-Furnished;2;18000
+1611;False;2;Apartment;1149;Semi-Furnished;2;18000
+1612;False;2;Apartment;1141;Furnished;2;21500
+1613;False;2;Apartment;935;Semi-Furnished;2;17000
+1614;False;3;Apartment;1500;Furnished;3;32000
+1615;False;2;Apartment;1100;Unfurnished;2;16000
+1616;False;2;Apartment;1120;Unfurnished;2;17000
+1617;False;2;Apartment;1080;Unfurnished;2;15000
+1618;False;2;Apartment;1100;Unfurnished;2;15000
+1619;False;1;Apartment;655;Unfurnished;1;10000
+1620;False;1;Apartment;700;Unfurnished;1;14500
+1621;False;1;Apartment;670;Semi-Furnished;1;13000
+1622;False;2;Apartment;997;Semi-Furnished;2;17000
+1623;False;1;Apartment;650;Furnished;1;24000
+1624;False;2;Apartment;890;Unfurnished;2;33000
+1625;False;2;Apartment;1200;Semi-Furnished;2;35000
+1626;False;3;Apartment;1400;Semi-Furnished;2;30000
+1627;False;3;Apartment;1539;Semi-Furnished;2;32000
+1628;False;1;Apartment;1036;Unfurnished;2;14000
+1629;False;2;Apartment;890;Semi-Furnished;2;23000
+1630;False;2;Apartment;1100;Unfurnished;2;16000
+1631;False;2;Apartment;1200;Semi-Furnished;2;20000
+1632;False;1;Apartment;600;Furnished;1;23000
+1633;False;2;Apartment;1250;Unfurnished;2;27000
+1634;False;3;Apartment;1750;Furnished;3;40000
+1635;False;2;Apartment;1000;Unfurnished;2;20000
+1636;False;1;Apartment;620;Unfurnished;1;12500
+1637;False;2;Apartment;1225;Semi-Furnished;2;20000
+1638;False;2;Apartment;950;Unfurnished;2;18000
+1639;False;1;Apartment;550;Furnished;2;15000
+1640;False;2;Apartment;1218;Unfurnished;2;21000
+1641;False;3;Apartment;1456;Furnished;3;34000
+1642;False;2;Apartment;1010;Semi-Furnished;2;21000
+1643;False;1;Apartment;600;Furnished;1;20000
+1644;False;2;Apartment;1096;Unfurnished;2;15500
+1645;False;2;Apartment;980;Unfurnished;1;19500
+1646;False;3;Apartment;1200;Unfurnished;2;19000
+1647;False;3;Apartment;1500;Semi-Furnished;3;27000
+1648;False;3;Apartment;1800;Semi-Furnished;3;29000
+1649;False;1;Apartment;650;Semi-Furnished;1;15000
+1650;False;3;Apartment;1530;Unfurnished;3;21000
+1651;False;2;Apartment;1050;Unfurnished;2;17000
+1652;False;1;Apartment;571;Furnished;1;18000
+1653;False;2;Apartment;1265;Semi-Furnished;2;23000
+1654;False;1;Apartment;531;Semi-Furnished;1;14000
+1655;False;3;Apartment;1456;Semi-Furnished;3;25000
+1656;False;2;Apartment;1100;Semi-Furnished;2;23000
+1657;False;3;Apartment;1600;Semi-Furnished;3;30000
+1658;False;1;Apartment;680;Furnished;2;20000
+1659;False;2;Apartment;1050;Semi-Furnished;2;22000
+1660;False;2;Apartment;1080;Furnished;2;25000
+1661;False;1;Apartment;650;Unfurnished;2;11000
+1662;False;3;Apartment;1450;Unfurnished;3;21000
+1663;False;2;Apartment;1000;Semi-Furnished;2;19000
+1664;False;2;Apartment;1010;Semi-Furnished;2;19190
+1665;False;2;Apartment;1020;Semi-Furnished;2;12000
+1666;False;2;Apartment;1800;Semi-Furnished;2;40000
+1667;False;2;Apartment;1300;Unfurnished;3;40000
+1668;False;2;Apartment;1265;Semi-Furnished;2;23000
+1669;False;3;Apartment;1450;Furnished;3;32000
+1670;False;2;Apartment;1200;Unfurnished;2;22000
+1671;False;2;Apartment;1100;Unfurnished;2;18000
+1672;False;2;Apartment;860;Unfurnished;2;18000
+1673;False;1;Apartment;650;Unfurnished;1;8500
+1674;False;1;Apartment;930;Unfurnished;2;15500
+1675;False;1;Apartment;1010;Semi-Furnished;2;16000
+1676;False;2;Apartment;1150;Furnished;2;20000
+1677;False;2;Apartment;1050;Semi-Furnished;2;15500
+1678;False;2;Apartment;1100;Semi-Furnished;2;25000
+1679;False;1;Apartment;680;Unfurnished;1;10500
+1680;False;3;Apartment;1400;Semi-Furnished;3;18000
+1681;False;3;Apartment;1485;Furnished;3;45000
+1682;False;2;Apartment;1215;Unfurnished;2;19000
+1683;False;2;Apartment;1150;Semi-Furnished;2;22000
+1684;False;3;Apartment;1440;Unfurnished;3;28000
+1685;False;1;Apartment;650;Unfurnished;1;14000
+1686;False;1;Apartment;600;Semi-Furnished;1;17000
+1687;False;1;Apartment;600;Semi-Furnished;1;14000
+1688;False;1;Apartment;650;Unfurnished;1;7000
+1689;True;2;Apartment;900;Unfurnished;2;13000
+1690;False;2;Apartment;1040;Unfurnished;2;13000
+1691;False;4;Apartment;2000;Semi-Furnished;3;30000
+1692;False;2;Apartment;1200;Semi-Furnished;2;18000
+1693;False;2;Independent Floor;1250;Furnished;2;24000
+1694;False;3;Apartment;1450;Unfurnished;3;25000
+1695;False;2;Apartment;1090;Semi-Furnished;2;27000
+1696;False;1;Apartment;570;Unfurnished;1;9500
+1697;False;2;Apartment;1150;Furnished;2;21000
+1698;False;1;Apartment;600;Semi-Furnished;1;9500
+1699;False;2;Apartment;1200;Furnished;2;35000
+1700;False;3;Apartment;1800;Semi-Furnished;3;35000
+1701;False;3;Apartment;1700;Semi-Furnished;3;37000
+1702;False;2;Apartment;1135;Unfurnished;2;14000
+1703;False;1;Apartment;555;Unfurnished;1;9500
+1704;False;1;Apartment;550;Semi-Furnished;1;10000
+1705;False;2;Apartment;1100;Unfurnished;2;21000
+1706;False;3;Apartment;1557;Semi-Furnished;3;31000
+1707;False;2;Apartment;1011;Unfurnished;2;20000
+1708;False;1;Apartment;670;Furnished;1;22000
+1709;False;3;Apartment;1650;Furnished;3;30000
+1710;False;2;Apartment;1050;Semi-Furnished;2;22000
+1711;False;2;Apartment;1450;Unfurnished;3;16000
+1712;False;2;Apartment;1150;Unfurnished;2;15000
+1713;False;2;Apartment;1050;Semi-Furnished;2;17000
+1714;False;1;Apartment;750;Furnished;2;25000
+1715;False;2;Apartment;1090;Unfurnished;2;27000
+1716;False;3;Apartment;1100;Semi-Furnished;2;29000
+1717;False;1;Apartment;620;Unfurnished;2;13500
+1718;False;2;Apartment;1150;Semi-Furnished;2;25000
+1719;False;1;Apartment;560;Unfurnished;1;15000
+1720;False;3;Apartment;1300;Furnished;2;18000
+1721;False;3;Apartment;1350;Unfurnished;3;24000
+1722;False;2;Apartment;1045;Unfurnished;2;21000
+1723;False;2;Apartment;1100;Furnished;2;25000
+1724;False;2;Apartment;1100;Unfurnished;2;26000
+1725;False;2;Apartment;998;Semi-Furnished;2;15000
+1726;False;2;Apartment;951;Furnished;2;18000
+1727;False;2;Apartment;989;Furnished;2;25000
+1728;False;2;Apartment;977;Unfurnished;2;18000
+1729;False;1;Apartment;605;Unfurnished;1;15000
+1730;False;2;Apartment;920;Unfurnished;2;18000
+1731;False;2;Apartment;890;Unfurnished;2;13000
+1732;False;1;Apartment;550;Unfurnished;1;13000
+1733;False;3;Apartment;1755;Semi-Furnished;3;22000
+1734;False;1;Apartment;650;Unfurnished;2;16000
+1735;False;1;Apartment;798;Semi-Furnished;2;15000
+1736;False;1;Apartment;670;Unfurnished;2;8000
+1737;False;2;Apartment;1255;Furnished;2;20000
+1738;False;2;Apartment;800;Unfurnished;2;20000
+1739;False;1;Apartment;700;Unfurnished;1;11000
+1740;False;3;Apartment;1120;Semi-Furnished;2;22000
+1741;False;2;Apartment;1250;Unfurnished;2;19000
+1742;False;2;Apartment;890;Unfurnished;2;16000
+1743;False;2;Apartment;950;Furnished;2;18000
+1744;False;2;Apartment;1550;Unfurnished;3;29000
+1745;False;2;Apartment;1000;Unfurnished;2;26000
+1746;False;2;Apartment;1130;Semi-Furnished;2;21000
+1747;False;3;Apartment;1650;Unfurnished;3;36000
+1748;False;2;Apartment;1200;Furnished;2;21000
+1749;False;2;Apartment;1185;Semi-Furnished;2;23000
+1750;False;2;Apartment;1030;Unfurnished;2;30000
+1751;False;2;Apartment;1060;Unfurnished;2;27000
+1752;False;2;Apartment;987;Unfurnished;2;12000
+1753;False;1;Apartment;640;Unfurnished;1;14000
+1754;False;3;Apartment;1500;Furnished;3;32000
+1755;False;2;Apartment;1200;Semi-Furnished;2;25000
+1756;False;2;Apartment;1020;Semi-Furnished;2;16000
+1757;False;2;Apartment;985;Unfurnished;2;15000
+1758;False;2;Apartment;1050;Unfurnished;2;10500
+1759;False;2;Apartment;963;Unfurnished;2;12000
+1760;False;1;Apartment;654;Unfurnished;2;10500
+1761;False;2;Apartment;951;Unfurnished;2;17000
+1762;False;3;Apartment;1650;Unfurnished;3;14000
+1763;False;1;Apartment;765;Furnished;1;15000
+1764;False;2;Apartment;989;Unfurnished;2;12000
+1765;False;1;Apartment;654;Unfurnished;1;15000
+1766;False;2;Apartment;980;Furnished;2;12500
+1767;False;2;Apartment;2163;Semi-Furnished;2;30000
+1768;False;1;Apartment;680;Furnished;2;13000
+1769;False;3;Apartment;1440;Semi-Furnished;3;26000
+1770;False;1;Apartment;660;Unfurnished;1;10000
+1771;False;2;Apartment;1237;Semi-Furnished;2;27500
+1772;False;2;Apartment;951;Unfurnished;2;12500
+1773;False;1;Apartment;550;Unfurnished;1;9000
+1774;False;2;Apartment;1241;Semi-Furnished;2;15000
+1775;False;2;Apartment;908;Semi-Furnished;2;10000
+1776;False;2;Apartment;908;Semi-Furnished;2;12000
+1777;False;3;Apartment;1450;Unfurnished;3;25000
+1778;False;2;Apartment;1010;Unfurnished;2;28000
+1779;False;3;Apartment;1630;Semi-Furnished;3;35000
+1780;False;2;Apartment;680;Furnished;2;18500
+1781;False;3;Apartment;1565;Semi-Furnished;3;20000
+1782;False;2;Apartment;900;Unfurnished;2;10000
+1783;False;1;Apartment;632;Unfurnished;2;9000
+1784;False;1;Apartment;696;Semi-Furnished;1;18000
+1785;False;3;Apartment;1745;Semi-Furnished;3;19000
+1786;False;2;Apartment;1002;Semi-Furnished;2;18000
+1787;False;1;Apartment;620;Semi-Furnished;1;13500
+1788;False;1;Apartment;720;Semi-Furnished;1;21000
+1789;False;3;Apartment;1400;Semi-Furnished;3;25000
+1790;False;2;Apartment;1249;Furnished;2;30000
+1791;False;2;Apartment;920;Unfurnished;2;15000
+1792;False;2;Apartment;880;Unfurnished;2;13000
+1793;False;2;Apartment;1115;Unfurnished;2;15000
+1794;False;2;Apartment;1130;Unfurnished;2;19500
+1795;False;2;Apartment;900;Unfurnished;2;13000
+1796;False;2;Apartment;1015;Semi-Furnished;2;16000
+1797;False;1;Apartment;605;Unfurnished;1;6000
+1798;False;1;Apartment;601;Unfurnished;1;12000
+1799;False;2;Apartment;950;Unfurnished;2;16000
+1800;False;2;Apartment;1002;Furnished;2;14000
+1801;False;2;Apartment;1050;Furnished;2;15000
+1802;False;2;Apartment;841;Unfurnished;2;13000
+1803;True;2;Apartment;1150;Semi-Furnished;2;16000
+1804;False;3;Apartment;1400;Unfurnished;3;20000
+1805;False;2;Apartment;570;Unfurnished;2;12000
+1806;False;1;Apartment;709;Unfurnished;1;12000
+1807;False;2;Apartment;1020;Unfurnished;2;15000
+1808;False;1;Apartment;550;Semi-Furnished;1;14000
+1809;False;2;Apartment;1200;Semi-Furnished;2;25000
+1810;True;2;Apartment;1250;Unfurnished;2;16000
+1811;False;1;Apartment;545;Unfurnished;1;9000
+1812;False;2;Apartment;985;Semi-Furnished;2;13500
+1813;True;2;Apartment;1100;Semi-Furnished;2;19000
+1814;False;2;Apartment;1000;Semi-Furnished;2;14000
+1815;False;2;Apartment;959;Semi-Furnished;2;11500
+1816;False;1;Apartment;560;Semi-Furnished;1;13500
+1817;False;2;Apartment;851;Semi-Furnished;2;25000
+1818;True;2;Apartment;918;Semi-Furnished;2;15000
+1819;False;2;Apartment;955;Unfurnished;2;13000
+1820;False;3;Apartment;1788;Unfurnished;3;40000
+1821;True;1;Apartment;680;Furnished;2;16000
+1822;True;1;Apartment;525;Furnished;1;7000
+1823;False;1;Apartment;600;Unfurnished;1;12000
+1824;False;2;Apartment;1100;Semi-Furnished;2;19000
+1825;False;1;Apartment;560;Semi-Furnished;1;12000
+1826;True;1;Apartment;600;Unfurnished;1;7500
+1827;True;1;Apartment;685;Semi-Furnished;1;20000
+1828;False;2;Apartment;1075;Unfurnished;2;14000
+1829;True;1;Apartment;625;Semi-Furnished;1;15000
+1830;True;2;Apartment;700;Unfurnished;1;10000
+1831;True;1;Apartment;685;Semi-Furnished;1;14000
+1832;False;2;Apartment;1050;Unfurnished;2;20000
+1833;True;2;Apartment;750;Semi-Furnished;2;13000
+1834;False;1;Apartment;630;Unfurnished;1;10000
+1835;True;1;Apartment;570;Furnished;1;10000
+1836;False;3;Apartment;1787;Unfurnished;3;30000
+1837;False;1;Apartment;500;Furnished;1;15500
+1838;True;2;Apartment;730;Unfurnished;1;16000
+1839;True;2;Apartment;727;Semi-Furnished;2;18000
+1840;False;1;Apartment;620;Semi-Furnished;1;9500
+1841;False;3;Apartment;1450;Semi-Furnished;3;32000
+1842;False;3;Apartment;1559;Semi-Furnished;3;28000
+1843;False;2;Apartment;990;Semi-Furnished;2;22100
+1844;True;3;Apartment;1400;Semi-Furnished;3;25000
+1845;False;3;Apartment;1600;Furnished;3;32000
+1846;True;2;Apartment;800;Semi-Furnished;2;20000
+1847;False;2;Apartment;1310;Unfurnished;2;25000
+1848;False;1;Apartment;702;Furnished;1;15000
+1849;True;2;Apartment;1000;Furnished;2;20000
+1850;False;3;Apartment;1700;Furnished;2;48000
+1851;False;2;Apartment;1031;Semi-Furnished;2;27800
+1852;True;2;Apartment;680;Unfurnished;1;12500
+1853;False;3;Apartment;1700;Semi-Furnished;3;25000
+1854;False;3;Apartment;1402;Semi-Furnished;3;27000
+1855;True;2;Apartment;750;Semi-Furnished;2;18500
+1856;False;2;Apartment;760;Unfurnished;2;23000
+1857;True;1;Apartment;500;Unfurnished;1;12000
+1858;False;2;Apartment;1070;Furnished;2;19000
+1859;False;1;Apartment;550;Semi-Furnished;1;11000
+1860;False;2;Apartment;1250;Semi-Furnished;2;21000
+1861;False;3;Apartment;1750;Furnished;3;59500
+1862;False;2;Apartment;1292;Unfurnished;2;28500
+1863;False;1;Apartment;487;Semi-Furnished;1;9500
+1864;True;3;Apartment;1880;Semi-Furnished;3;24000
+1865;True;1;Apartment;653;Semi-Furnished;1;9000
+1866;True;1;Apartment;800;Semi-Furnished;1;16000
+1867;False;1;Apartment;550;Furnished;1;17000
+1868;True;2;Apartment;1050;Unfurnished;2;19000
+1869;True;1;Apartment;600;Unfurnished;1;8500
+1870;True;1;Apartment;680;Unfurnished;1;11000
+1871;False;1;Apartment;500;Unfurnished;1;12000
+1872;True;2;Apartment;1200;Semi-Furnished;2;15000
+1873;False;3;Apartment;1608;Semi-Furnished;2;34000
+1874;True;1;Apartment;580;Semi-Furnished;2;12000
+1875;True;1;Independent Floor;645;Unfurnished;1;9000
+1876;False;2;Apartment;984;Unfurnished;2;19000
+1877;False;2;Apartment;1000;Semi-Furnished;2;24000
+1878;True;2;Apartment;850;Unfurnished;2;8500
+1879;True;2;Apartment;1061;Semi-Furnished;2;19000
+1880;False;2;Apartment;850;Furnished;2;20000
+1881;False;2;Apartment;1100;Semi-Furnished;2;22000
+1882;False;1;Apartment;550;Unfurnished;1;11550
+1883;False;2;Apartment;610;Semi-Furnished;2;13420
+1884;False;2;Apartment;1010;Furnished;2;22000
+1885;False;2;Apartment;1050;Furnished;2;19000
+1886;False;2;Apartment;1200;Furnished;2;14000
+1887;True;1;Apartment;450;Unfurnished;1;5500
+1888;True;1;Apartment;670;Unfurnished;2;9000
+1889;True;2;Apartment;750;Unfurnished;2;8500
+1890;False;1;Apartment;410;Unfurnished;1;7200
+1891;False;2;Apartment;1000;Semi-Furnished;2;20500
+1892;False;2;Apartment;1050;Semi-Furnished;2;19500
+1893;True;1;Apartment;732;Unfurnished;1;10000
+1894;False;2;Apartment;1100;Unfurnished;2;20000
+1895;False;2;Apartment;600;Semi-Furnished;2;12000
+1896;False;3;Apartment;1314;Semi-Furnished;2;25000
+1897;False;1;Apartment;680;Unfurnished;1;10000
+1898;True;3;Apartment;1619;Furnished;3;30000
+1899;False;2;Apartment;1000;Unfurnished;2;19000
+1900;False;2;Apartment;1314;Semi-Furnished;2;18500
+1901;True;2;Apartment;950;Unfurnished;2;25000
+1902;False;3;Apartment;1558;Unfurnished;3;18000
+1903;False;2;Apartment;1054;Semi-Furnished;2;17000
+1904;False;2;Apartment;900;Semi-Furnished;2;13000
+1905;False;1;Apartment;600;Semi-Furnished;1;11000
+1906;False;2;Apartment;850;Unfurnished;2;12000
+1907;False;1;Apartment;668;Semi-Furnished;1;12000
+1908;False;3;Apartment;950;Unfurnished;3;18000
+1909;False;1;Apartment;450;Unfurnished;1;7500
+1910;True;3;Apartment;1610;Semi-Furnished;3;22500
+1911;True;1;Independent Floor;650;Unfurnished;1;7000
+1912;True;2;Apartment;700;Furnished;2;9000
+1913;True;1;Independent Floor;550;Unfurnished;1;9500
+1914;True;1;Apartment;1050;Unfurnished;1;16000
+1915;True;2;Apartment;1200;Semi-Furnished;2;26300
+1916;True;3;Apartment;1200;Unfurnished;2;30000
+1917;True;3;Apartment;1600;Semi-Furnished;3;28000
+1918;True;2;Apartment;925;Unfurnished;2;13000
+1919;True;1;Apartment;600;Unfurnished;1;7000
+1920;True;2;Apartment;1100;Semi-Furnished;2;25000
+1921;True;1;Apartment;587;Unfurnished;1;8000
+1922;True;2;Apartment;1250;Furnished;2;22500
+1923;True;1;Apartment;504;Furnished;1;13100
+1924;True;2;Apartment;950;Furnished;2;20000
+1925;True;1;Apartment;935;Semi-Furnished;2;14000
+1926;True;2;Apartment;731;Semi-Furnished;2;14000
+1927;True;3;Apartment;1320;Semi-Furnished;3;20000
+1928;True;2;Apartment;1000;Semi-Furnished;2;20000
+1929;True;2;Independent Floor;850;Semi-Furnished;2;12000
+1930;True;2;Apartment;1300;Furnished;2;23000
+1931;True;3;Apartment;1650;Semi-Furnished;3;22000
+1932;True;1;Apartment;705;Semi-Furnished;2;16000
+1933;True;2;Apartment;720;Furnished;1;18000
+1934;True;2;Apartment;988;Semi-Furnished;2;17000
+1935;True;2;Apartment;937;Furnished;2;20000
+1936;True;1;Apartment;600;Unfurnished;1;8500
+1937;True;2;Apartment;1000;Unfurnished;2;14000
+1938;True;2;Apartment;1000;Furnished;2;22000
+1939;True;2;Apartment;1200;Semi-Furnished;2;22000
+1940;True;2;Apartment;1050;Unfurnished;2;11000
+1941;True;2;Apartment;1150;Semi-Furnished;2;24000
+1942;True;1;Apartment;700;Unfurnished;1;15000
+1943;True;2;Apartment;1060;Semi-Furnished;2;16500
+1944;True;3;Apartment;1300;Semi-Furnished;2;15000
+1945;True;1;Apartment;595;Unfurnished;1;9300
+1946;True;2;Apartment;802;Semi-Furnished;2;12500
+1947;True;2;Apartment;1300;Semi-Furnished;2;16000
+1948;True;2;Apartment;1015;Semi-Furnished;2;16000
